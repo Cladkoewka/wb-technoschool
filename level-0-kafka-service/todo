@@ -1,0 +1,5 @@
+# Создать топик вручную
+docker exec -it kafka kafka-topics --create   --topic orders   --bootstrap-server localhost:9092   --partitions 1   --replication-factor 1
+
+# Экспорт env
+export $(grep -v '^#' .env | xargs)

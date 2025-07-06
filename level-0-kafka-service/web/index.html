@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Order Viewer</title>
+    <style>
+        body {
+            font-family: monospace;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        input, button {
+            font-size: 16px;
+            padding: 5px;
+        }
+        #result {
+            white-space: pre-wrap;
+            background: #eee;
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Order Lookup</h2>
+    <input type="text" id="orderUID" placeholder="Enter Order UID">
+    <button onclick="fetchOrder()">Fetch Order</button>
+
+    <div id="result">Result will appear here</div>
+
+    <script>
+        async function fetchOrder() {
+            const uid = document.getElementById('orderUID').value.trim();
+            const resultEl = document.getElementById('result');
+            if (!uid) {
+                resultEl.textContent = 'Please enter a valid UID.';
+                return;
+            }
+
+            try {
+                const res = await fetch(`http://localhost:8081/order/${uid}`);
+                if (!res.ok) {
+                    resultEl.textContent = `Error ${res.status}: ${await res.text()}`;
+                    return;
+                }
+                const data = await res.json();
+                resultEl.textContent = JSON.stringify(data, null, 2);
+            } catch (e) {
+                resultEl.textContent = 'Request failed: ' + e;
+            }
+        }
+    </script>
+</body>
+</html>
