@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	level1tasks.TestCalculateSquares()
+	level1tasks.TestWorkers()
 }
