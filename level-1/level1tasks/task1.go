@@ -27,3 +27,18 @@ type Action struct {
 func (a Action) About() string {
 	return fmt.Sprintf("I'm %s, my position is %s", a.Name, a.Position)
 }
+
+func Task1Test() {
+	action := Action{
+		Human: Human{
+			Name:    "Simon",
+			Surname: "Riley",
+			Age:     21,
+		},
+		Position: "Programmer",
+	}
+
+	action.SayHello()
+	fmt.Println(action.BirthYear())
+	fmt.Println(action.About())
+}
