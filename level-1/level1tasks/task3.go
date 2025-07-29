@@ -6,7 +6,7 @@ import (
 	"time"
 )
 
-func Work(workersCount int, inChan <-chan int) {
+func _Work(workersCount int, inChan <-chan int) {
 	for i := 0; i < workersCount; i++ {
 		go func(workerNum int) {
 			for val := range inChan {
@@ -16,7 +16,7 @@ func Work(workersCount int, inChan <-chan int) {
 	}
 }
 
-func TestWorkers() {
+func _TestWorkers() {
 	ch := make(chan int)
 	workersCount := 5
 
@@ -29,7 +29,7 @@ func TestWorkers() {
 	}()
 
 	// Запуск воркеров
-	Work(workersCount, ch)
+	_Work(workersCount, ch)
 
 	// Блокировка main
 	select {}
