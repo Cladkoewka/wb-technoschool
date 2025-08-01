@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	level1tasks.Task21()
+	level1tasks.Task22()
 }
