@@ -1,4 +1,4 @@
-module ntp-time
+module github.com/Cladkoewka/wb-technoschool/level2/task8
 
 go 1.24.2
 

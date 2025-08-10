@@ -13,5 +13,5 @@ func Foo() error {
 func Task3() {
 	err := Foo()
 	fmt.Println(err)
-	fmt.Println(err == nil)	
+	fmt.Println(err == nil)
 }
