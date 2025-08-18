@@ -135,7 +135,6 @@ func runGrep(r io.Reader, opts options) {
 			match = !match
 		}
 
-
 		if match {
 			count++
 			if opts.countOnly {
@@ -188,7 +187,6 @@ func runGrep(r io.Reader, opts options) {
 		os.Exit(1)
 	}
 }
-
 
 var out io.Writer = os.Stdout
 
