@@ -13,7 +13,7 @@ func main() {
 	// cmd params
 	timeout := flag.Duration("timeout", 10*time.Second, "connection timeout")
 	flag.Parse()
-	
+
 	if flag.NArg() < 2 {
 		fmt.Fprintf(os.Stderr, "Usage: %s [--timeout duration] host port\n", os.Args[0])
 		os.Exit(1)
