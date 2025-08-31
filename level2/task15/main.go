@@ -9,14 +9,14 @@ import (
 	"os/signal"
 	"strconv"
 	"strings"
-	"syscall"
 	"sync"
+	"syscall"
 )
 
 func main() {
 	reader := bufio.NewReader(os.Stdin)
 
-	// redirect SIGINT to shell 
+	// redirect SIGINT to shell
 	sigc := make(chan os.Signal, 1)
 	signal.Notify(sigc, syscall.SIGINT)
 
@@ -98,7 +98,7 @@ func splitByUnescapedPipe(s string) []string {
 	return strings.Split(s, "|")
 }
 
-// simpleFields — divide by space 
+// simpleFields — divide by space
 func simpleFields(s string) []string {
 	return strings.Fields(s)
 }
@@ -112,7 +112,7 @@ func substituteEnv(s string) string {
 			b.WriteByte(ch)
 			continue
 		}
-		
+
 		if i+1 < len(s) && s[i+1] == '{' {
 			// search }
 			j := i + 2
@@ -285,7 +285,7 @@ func runPipeline(pipeline [][]string, pidsMu *sync.Mutex, childPids *[]int) int 
 	return exitCodes[len(exitCodes)-1]
 }
 
-// buildCommand: helper for builtin
+// Command - helper for builtin
 type Command struct {
 	Name string
 	Args []string
