@@ -1,0 +1,1258 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"/>
+<title>Google Photos: Edit, Organize, Search, and Backup Your Photos</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta content="website" property="og:type"/>
+<meta content="Google Photos" property="og:site_name"/>
+<meta content="Google Photos: Edit, Organize, Search, and Backup Your Photos" property="og:title"/>
+<meta content="Google Photos: Edit, Organize, Search, and Backup Your Photos" name="twitter:title"/>
+<meta name="description" content="Edit and enhance photos with AI-powered features like Magic Eraser and Unblur on Google Photos. Store, organize &amp; search your memories."/>
+<meta name="og:description" content="Edit and enhance photos with AI-powered features like Magic Eraser and Unblur on Google Photos. Store, organize &amp; search your memories."/>
+<meta content="https://lh3.googleusercontent.com/Rh3tuvHk6EEPFvpsOPfFQ8P9s-1srhWR8mOpDPC72WvxvoA7CKJo3Cy_NV1YK26nUD1dkc3ok9Gj8qV0kB6jSLNbue21h6lBAezY=e365-pa-nu-w1200" property="og:image"/>
+<meta content="https://lh3.googleusercontent.com/Rh3tuvHk6EEPFvpsOPfFQ8P9s-1srhWR8mOpDPC72WvxvoA7CKJo3Cy_NV1YK26nUD1dkc3ok9Gj8qV0kB6jSLNbue21h6lBAezY=e365-pa-nu-w1200" name="twitter:image"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<link rel="canonical" href="photos/about/index.html"/>
+<meta content="https://www.google.com/photos/about/" property="og:url"/>
+<link rel="alternate" href="photos/about/index.html" hreflang="x-default"/>
+<link rel="alternate" hreflang="en-MT" href="intl/mt_mt/photos/about/index.html"/>
+<link rel="alternate" hreflang="bg-BG" href="intl/bg_bg/photos/about/index.html"/>
+<link rel="alternate" hreflang="cs-CZ" href="intl/cs_cz/photos/about/index.html"/>
+<link rel="alternate" hreflang="da-DK" href="intl/da_dk/photos/about/index.html"/>
+<link rel="alternate" hreflang="de-AT" href="intl/de_at/photos/about/index.html"/>
+<link rel="alternate" hreflang="de-BE" href="intl/de_be/photos/about/index.html"/>
+<link rel="alternate" hreflang="de-DE" href="intl/de_de/photos/about/index.html"/>
+<link rel="alternate" hreflang="de-LU" href="intl/de_lu/photos/about/index.html"/>
+<link rel="alternate" hreflang="el-CY" href="intl/el_cy/photos/about/index.html"/>
+<link rel="alternate" hreflang="el-GR" href="intl/el_gr/photos/about/index.html"/>
+<link rel="alternate" hreflang="en" href="intl/en/photos/about/index.html"/>
+<link rel="alternate" hreflang="en-CA" href="intl/en_ca/photos/about/index.html"/>
+<link rel="alternate" hreflang="en-IE" href="intl/en_ie/photos/about/index.html"/>
+<link rel="alternate" hreflang="en-GB" href="intl/en_uk/photos/about/index.html"/>
+<link rel="alternate" hreflang="en-US" href="intl/en_us/photos/about/index.html"/>
+<link rel="alternate" hreflang="es-ES" href="intl/es_es/photos/about/index.html"/>
+<link rel="alternate" hreflang="et-EE" href="intl/et_ee/photos/about/index.html"/>
+<link rel="alternate" hreflang="fi-FI" href="intl/fi_fi/photos/about/index.html"/>
+<link rel="alternate" hreflang="fr-BE" href="intl/fr_be/photos/about/index.html"/>
+<link rel="alternate" hreflang="fr-CA" href="intl/fr_ca/photos/about/index.html"/>
+<link rel="alternate" hreflang="fr-FR" href="intl/fr_fr/photos/about/index.html"/>
+<link rel="alternate" hreflang="fr-LU" href="intl/fr_lu/photos/about/index.html"/>
+<link rel="alternate" hreflang="hr-HR" href="intl/hr_hr/photos/about/index.html"/>
+<link rel="alternate" hreflang="hu-HU" href="intl/hu_hu/photos/about/index.html"/>
+<link rel="alternate" hreflang="it-IT" href="intl/it_it/photos/about/index.html"/>
+<link rel="alternate" hreflang="lt-LT" href="intl/lt_lt/photos/about/index.html"/>
+<link rel="alternate" hreflang="lv-LV" href="intl/lv_lv/photos/about/index.html"/>
+<link rel="alternate" hreflang="nl-NL" href="intl/nl_nl/photos/about/index.html"/>
+<link rel="alternate" hreflang="pl-PL" href="intl/pl_pl/photos/about/index.html"/>
+<link rel="alternate" hreflang="pt-PT" href="intl/pt_pt/photos/about/index.html"/>
+<link rel="alternate" hreflang="ro-RO" href="intl/ro_ro/photos/about/index.html"/>
+<link rel="alternate" hreflang="sk-SK" href="intl/sk_sk/photos/about/index.html"/>
+<link rel="alternate" hreflang="sl-SI" href="intl/sl_si/photos/about/index.html"/>
+<link rel="alternate" hreflang="sv-FI" href="intl/sv_fi/photos/about/index.html"/>
+<link rel="alternate" hreflang="sv-SE" href="intl/sv_se/photos/about/index.html"/>
+<link rel="alternate" hreflang="tr-CY" href="intl/tr_cy/photos/about/index.html"/>
+<link rel="icon" href="photos/static/2020/images/logo_photos_192px.png"/>
+<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin=""/>
+<link rel="preconnect" href="https://storage.googleapis.com" crossorigin=""/>
+<link rel="preload" href="//fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i|Google+Sans:400,500|Google+Sans+Display:400,500|Product+Sans:400" as="style" nonce="WnRK7EA4kPiD_OYQWoBdbA"/>
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i|Google+Sans:400,500|Google+Sans+Display:400,500|Product+Sans:400" nonce="WnRK7EA4kPiD_OYQWoBdbA"/>
+<style>
+@layer bds.base, bds.component, mws.base, mws.component, base, component, template;
+
+</style>
+<link rel="preload" as="image" href="https://lh3.googleusercontent.com/DDjcBEIK26X43MEH2l5q4NY5OiNK1kYrRgercHFRJ6ejsxN88ITFMs7Kz1R53xXOc72g-pEuot-kAvPtsNlPyWde7V3fzdWABpQ=e365-pa-nu-s0" imagesrcset="https://lh3.googleusercontent.com/DDjcBEIK26X43MEH2l5q4NY5OiNK1kYrRgercHFRJ6ejsxN88ITFMs7Kz1R53xXOc72g-pEuot-kAvPtsNlPyWde7V3fzdWABpQ=e365-pa-nu-w2880-rw 2x, https://lh3.googleusercontent.com/DDjcBEIK26X43MEH2l5q4NY5OiNK1kYrRgercHFRJ6ejsxN88ITFMs7Kz1R53xXOc72g-pEuot-kAvPtsNlPyWde7V3fzdWABpQ=e365-pa-nu-w1440-rw" nonce="WnRK7EA4kPiD_OYQWoBdbA"/>
+<script nonce="WnRK7EA4kPiD_OYQWoBdbA">
+function glueCookieNotificationBarLoaded() {
+(function(w, d, s, l, i) {
+w[l] = w[l] || [];
+w[l].push({
+'gtm.start': new Date().getTime(),
+event: 'gtm.js'
+});
+var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s),
+dl = l != 'dataLayer' ? '&amp;l=' + l : '';
+j.async = true;
+j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-K6HGMLB');
+}
+window.dataLayer = window.dataLayer || [];
+
+function gtag() {
+dataLayer.push(arguments);
+}
+gtag('js', new Date());
+gtag('config', 'UA-52720724-1', {
+'page_referrer': document.referrer.split('?')[0]
+});
+
+</script>
+<link href="https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.css" rel="stylesheet" nonce="WnRK7EA4kPiD_OYQWoBdbA"/>
+<script src="https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.js" data-glue-cookie-notification-bar-category="2A" nonce="WnRK7EA4kPiD_OYQWoBdbA"></script>
+<meta name="apple-itunes-app" content="app-id=962194608,affiliate-data=ct=marketing_site_sab&amp;pt=9008&amp;mt=8"/>
+<link rel="stylesheet" href="photos/assets/8pnMwlT5.css" nonce="WnRK7EA4kPiD_OYQWoBdbA"/>
+<link rel="stylesheet" href="photos/assets/C3lyK576.css" nonce="WnRK7EA4kPiD_OYQWoBdbA"/>
+<link rel="stylesheet" href="photos/assets/SfdOrmxn.css" nonce="WnRK7EA4kPiD_OYQWoBdbA"/>
+<script type="module" src="photos/assets/BMLOP1rI.min.js" nonce="WnRK7EA4kPiD_OYQWoBdbA"></script>
+<script type="module" src="photos/assets/9S3zl8kb.min.js" nonce="WnRK7EA4kPiD_OYQWoBdbA"></script>
+<script type="module" src="photos/assets/mUK859aU.min.js" nonce="WnRK7EA4kPiD_OYQWoBdbA"></script>
+<script type="module" src="photos/assets/BpSIGLfC.min.js" nonce="WnRK7EA4kPiD_OYQWoBdbA"></script>
+<script type="module" src="photos/assets/BFizGTCs.min.js" nonce="WnRK7EA4kPiD_OYQWoBdbA"></script>
+<script type="module" src="photos/assets/SLxIf5u4.min.js" nonce="WnRK7EA4kPiD_OYQWoBdbA"></script>
+<script type="module" src="photos/assets/BPQP0DAp.min.js" nonce="WnRK7EA4kPiD_OYQWoBdbA"></script>
+<script type="module" src="photos/assets/CSa44pW9.min.js" nonce="WnRK7EA4kPiD_OYQWoBdbA"></script>
+<script type="module" src="photos/assets/B0NnsKTj.min.js" nonce="WnRK7EA4kPiD_OYQWoBdbA"></script>
+<script type="module" src="photos/assets/BlU1CpTV.min.js" nonce="WnRK7EA4kPiD_OYQWoBdbA"></script>
+<script type="module" src="photos/assets/DDSXLPLW.min.js" nonce="WnRK7EA4kPiD_OYQWoBdbA"></script>
+<script type="module" src="photos/assets/z-iqEL2o.min.js" nonce="WnRK7EA4kPiD_OYQWoBdbA"></script>
+<script type="module" src="photos/assets/DKZa3vR1.min.js" nonce="WnRK7EA4kPiD_OYQWoBdbA"></script>
+<script type="module" src="photos/assets/Dz3XglOs.min.js" nonce="WnRK7EA4kPiD_OYQWoBdbA"></script>
+<script type="module" src="photos/assets/BXNDxX3h.min.js" nonce="WnRK7EA4kPiD_OYQWoBdbA"></script>
+<script type="module" src="photos/assets/DMjIo1ZK.min.js" nonce="WnRK7EA4kPiD_OYQWoBdbA"></script>
+<script type="module" src="photos/assets/B6-BJhsi.min.js" nonce="WnRK7EA4kPiD_OYQWoBdbA"></script>
+<script type="module" src="photos/assets/4ml002Gw.min.js" nonce="WnRK7EA4kPiD_OYQWoBdbA"></script>
+</head>
+<body>
+<div id="root">
+<script nonce="WnRK7EA4kPiD_OYQWoBdbA">
+(() => {
+const bannerClosed = sessionStorage.getItem('photos-banner:remix:closed');
+document.body.classList.toggle('banner:visible', bannerClosed !== 'true');
+})();
+
+</script><photos-banner data-announcement-id="remix" inert="" class="_banner_17izs_75 _container_1jejk_75">
+<div class="_bannerContent_17izs_95">
+<p>Discover new ways to animate, collage, and restyle your pics! <a href="https://photos.google.com/link/create?utm_campaign=gtm_create&amp;utm_source=hpp">Create now in the app</a></p>
+</div><button class="_close_17izs_119" data-slot="close" aria-label="Close banner"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19 6.41L17.59 5L12 10.59L6.41 5L5 6.41L10.59 12L5 17.59L6.41 19L12 13.41L17.59 19L19 17.59L13.41 12L19 6.41Z" fill="white"></path>
+</svg></button>
+</photos-banner><bds-header id="header" class="_header_h8bjx_81 y:top _header_1s69q_84" role="banner" data-top-offset="65"><a class="_skipLink_4ihvu_1" href="photos/about">Skip to main content</a>
+<div class="_content_1s69q_101">
+<div class="_burger_1s69q_107"><button class="_circleButton_1s69q_115" data-slot="burger" aria-label="Open nav menu"><svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+<path d="M144-264v-72h672v72H144Zm0-180v-72h672v72H144Zm0-180v-72h672v72H144Z" fill="currentColor"></path>
+</svg></button></div><a href="photos/about/index.html" class="_logo_h8bjx_97" aria-label="Visit the Overview page"><svg class="_logoIcon_h8bjx_116" width="23" height="24" viewBox="0 0 23 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5.76223 5.76019C6.5154 5.76019 7.26119 5.90854 7.95702 6.19676C8.65286 6.48499 9.28511 6.90744 9.81768 7.44001C10.3502 7.97258 10.7727 8.60483 11.0609 9.30067C11.3492 9.9965 11.4975 10.7423 11.4975 11.4955V12.0162H0.549092C0.411084 12.0159 0.278832 11.9609 0.181246 11.8633C0.0836591 11.7657 0.0286775 11.6335 0.0283205 11.4955C0.0281428 10.7424 0.176322 9.9966 0.464398 9.30077C0.752475 8.60494 1.1748 7.97268 1.70727 7.4401C2.23973 6.90751 2.87189 6.48503 3.56765 6.19679C4.2634 5.90855 5.00913 5.76019 5.76223 5.76019Z" fill="#F6B704"></path>
+<path d="M17.7536 6.28097C17.7536 7.03414 17.6053 7.77993 17.317 8.47576C17.0288 9.1716 16.6063 9.80385 16.0738 10.3364C15.5412 10.869 14.909 11.2914 14.2131 11.5797C13.5173 11.8679 12.7715 12.0162 12.0183 12.0162H11.4976V1.06783C11.4976 0.929712 11.5524 0.797253 11.6501 0.699589C11.7478 0.601925 11.8802 0.547058 12.0183 0.547058C12.7714 0.546881 13.5172 0.695062 14.213 0.983138C14.9088 1.27121 15.5411 1.69354 16.0737 2.226C16.6063 2.75846 17.0288 3.39063 17.317 4.08639C17.6052 4.78214 17.7536 5.52787 17.7536 6.28097Z" fill="#E54335"></path>
+<path d="M17.2328 18.2723C15.7117 18.2723 14.2529 17.668 13.1774 16.5925C12.1018 15.5169 11.4976 14.0581 11.4976 12.537V12.0162H22.446C22.5841 12.0162 22.7165 12.0711 22.8142 12.1688C22.9119 12.2664 22.9667 12.3989 22.9667 12.537C22.9669 13.2901 22.8187 14.0359 22.5307 14.7317C22.2426 15.4275 21.8203 16.0598 21.2878 16.5924C20.7553 17.125 20.1232 17.5474 19.4274 17.8357C18.7317 18.1239 17.9859 18.2723 17.2328 18.2723Z" fill="#4280EF"></path>
+<path d="M5.2417 17.7488C5.2417 16.9957 5.39006 16.25 5.6783 15.5542C5.96654 14.8585 6.38902 14.2263 6.9216 13.6938C7.45419 13.1614 8.08645 12.739 8.78228 12.451C9.4781 12.1629 10.2239 12.0147 10.977 12.0149H11.4977V22.9633C11.4974 23.1013 11.4424 23.2336 11.3448 23.3311C11.2472 23.4287 11.115 23.4837 10.977 23.4841C10.2238 23.4841 9.47801 23.3357 8.78217 23.0475C8.08634 22.7593 7.45409 22.3368 6.92152 21.8042C6.38895 21.2717 5.96649 20.6394 5.67827 19.9436C5.39005 19.2478 5.2417 18.502 5.2417 17.7488Z" fill="#34A353"></path>
+</svg><svg class="_logoIconFull_h8bjx_127" width="140" height="24" viewBox="0 0 140 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_229_20020)">
+<path d="M90.2222 18.5604V6.16461H94.4465C96.5066 6.16461 98.3246 7.6877 98.3246 9.85195C98.3246 12.0162 96.5066 13.5393 94.4465 13.5393H91.8156V18.5604H90.2222ZM94.4817 12.0162C95.0557 12.0162 95.6062 11.7882 96.012 11.3823C96.4179 10.9764 96.6459 10.4259 96.6459 9.85195C96.6459 9.27796 96.4179 8.72747 96.012 8.3216C95.6062 7.91572 95.0557 7.6877 94.4817 7.6877H91.8156V12.0162H94.4817Z" fill="#757575"></path>
+<path d="M101.012 10.0778L100.944 11.2547H101.012C101.463 10.4755 102.537 9.80055 103.696 9.80055C105.86 9.80055 106.934 11.2722 106.934 13.3662V18.5604H105.341V13.6083C105.341 11.8498 104.459 11.2547 103.247 11.2547C101.862 11.2547 101.012 12.5694 101.012 13.868V18.5604H99.4204V6.16461H101.012V10.0778Z" fill="#757575"></path>
+<path d="M116.971 14.3184C116.971 16.8979 115.153 18.8376 112.609 18.8376C110.065 18.8376 108.247 16.8979 108.247 14.3184C108.247 11.7389 110.065 9.80054 112.609 9.80054C115.153 9.80054 116.971 11.7389 116.971 14.3184ZM115.379 14.3184C115.382 12.3801 114.029 11.256 112.609 11.256C111.189 11.256 109.836 12.3801 109.836 14.3184C109.836 16.2568 111.189 17.3835 112.606 17.3835C114.024 17.3835 115.382 16.2608 115.382 14.3184H115.379Z" fill="#757575"></path>
+<path d="M118.899 15.9809V11.5266H117.411V10.0765H118.899V7.48077H120.492V10.0765H122.568V11.5266H120.492V15.8551C120.492 16.8019 120.89 17.2402 121.634 17.2402C121.883 17.2524 122.133 17.2061 122.361 17.1049L122.915 18.4725C122.508 18.6374 122.072 18.7139 121.634 18.697C119.845 18.6957 118.899 17.7123 118.899 15.9809Z" fill="#757575"></path>
+<path d="M132.121 14.3184C132.121 16.8979 130.303 18.8376 127.759 18.8376C125.214 18.8376 123.396 16.8979 123.396 14.3184C123.396 11.7389 125.214 9.80054 127.759 9.80054C130.303 9.80054 132.121 11.7389 132.121 14.3184ZM130.529 14.3184C130.529 12.3801 129.176 11.2546 127.759 11.2546C126.341 11.2546 124.986 12.3801 124.986 14.3184C124.986 16.2568 126.339 17.3835 127.756 17.3835C129.174 17.3835 130.532 16.2608 130.532 14.3184H130.529Z" fill="#757575"></path>
+<path d="M132.831 16.4137L134.251 15.8253C134.702 16.8979 135.532 17.4173 136.551 17.4173C137.538 17.4173 138.247 16.9331 138.247 16.223C138.247 15.7901 137.987 15.3234 137.088 15.0975L135.374 14.6823C134.595 14.4916 133.106 13.8166 133.106 12.3273C133.106 10.7866 134.699 9.80054 136.464 9.80054C137.936 9.80054 139.217 10.4769 139.736 11.7741L138.351 12.3449C138.023 11.5482 137.243 11.2195 136.413 11.2195C135.512 11.2195 134.733 11.6253 134.733 12.3097C134.733 12.8508 135.183 13.1416 135.858 13.2972L137.538 13.6962C139.217 14.0939 139.876 15.1327 139.876 16.1716C139.876 17.6771 138.523 18.8376 136.533 18.8376C134.487 18.8376 133.327 17.6257 132.831 16.4137Z" fill="#757575"></path>
+<path d="M29.7207 11.7389C29.7207 7.8257 33.0104 4.63883 36.9236 4.63883C37.8247 4.62417 38.7197 4.78977 39.556 5.12589C40.3922 5.46201 41.1528 5.96188 41.7932 6.59613L40.4256 7.96367C39.4877 7.05902 38.2306 6.56123 36.9277 6.57854C34.0708 6.57854 31.8376 8.87806 31.8376 11.7389C31.8376 14.5998 34.0708 16.898 36.9277 16.898C38.7808 16.898 39.8372 16.154 40.5122 15.4777C41.0668 14.9244 41.4293 14.125 41.5686 13.0429H36.9277V11.0978H43.4556C43.5294 11.4993 43.5643 11.907 43.5597 12.3152C43.5597 13.7693 43.1621 15.5697 41.8797 16.852C40.6339 18.1505 39.0392 18.8431 36.9277 18.8431C33.005 18.8377 29.7207 15.6522 29.7207 11.7389Z" fill="#757575"></path>
+<path d="M48.8309 9.69507C46.3028 9.69507 44.2427 11.6172 44.2427 14.2657C44.2427 16.9142 46.3028 18.8377 48.8309 18.8377C51.359 18.8377 53.4191 16.898 53.4191 14.2657C53.4191 11.6334 51.359 9.69507 48.8309 9.69507ZM48.8309 17.0373C47.4458 17.0373 46.2514 15.8943 46.2514 14.2657C46.2514 12.6371 47.4458 11.4955 48.8309 11.4955C50.216 11.4955 51.4104 12.6209 51.4104 14.2657C51.4104 15.9105 50.216 17.0373 48.8309 17.0373Z" fill="#757575"></path>
+<path d="M58.8407 9.69507C56.3125 9.69507 54.2524 11.6172 54.2524 14.2657C54.2524 16.9142 56.3125 18.8377 58.8407 18.8377C61.3688 18.8377 63.4289 16.898 63.4289 14.2657C63.4289 11.6334 61.3688 9.69507 58.8407 9.69507ZM58.8407 17.0373C57.4555 17.0373 56.2611 15.8943 56.2611 14.2657C56.2611 12.6371 57.4555 11.4955 58.8407 11.4955C60.2258 11.4955 61.4202 12.6209 61.4202 14.2657C61.4202 15.9105 60.2258 17.0373 58.8407 17.0373Z" fill="#757575"></path>
+<path d="M71.1271 9.97237V10.715H71.0581C70.6077 10.1739 69.742 9.69373 68.6518 9.69373C66.3658 9.69373 64.2705 11.7024 64.2705 14.2819C64.2705 16.8615 66.3658 18.8363 68.6518 18.8363C69.742 18.8363 70.6077 18.3507 71.0581 17.7975H71.1271V18.4549C71.1271 20.2039 70.1924 21.1386 68.6856 21.1386C67.456 21.1386 66.6945 20.2553 66.3861 19.5154L64.6371 20.2431C64.9659 21.0464 65.5273 21.7331 66.2491 22.2151C66.9709 22.6971 67.8203 22.9525 68.6883 22.9484C71.0433 22.9484 73.0344 21.5633 73.0344 18.1857V9.97237H71.1271ZM68.8276 17.0373C67.4425 17.0373 66.2819 15.8767 66.2819 14.2833C66.2819 12.6899 67.4425 11.4955 68.8276 11.4955C70.2127 11.4955 71.2624 12.6736 71.2624 14.2833C71.2624 15.893 70.1924 17.0373 68.8249 17.0373H68.8276Z" fill="#757575"></path>
+<path d="M76.4252 5.12445H74.4165V18.5604H76.4252V5.12445Z" fill="#757575"></path>
+<path d="M81.9317 17.0373C80.9091 17.0373 80.1827 16.5692 79.7147 15.6521L85.8273 13.124L85.6231 12.6087C85.243 11.5861 84.0824 9.6991 81.7098 9.6991C79.3373 9.6991 77.3989 11.5522 77.3989 14.2697C77.3989 16.833 79.3373 18.8417 81.9357 18.8417C82.689 18.8456 83.4315 18.6622 84.0964 18.308C84.7613 17.9539 85.3277 17.44 85.7448 16.8127L84.1866 15.7739C83.6631 16.5314 82.9529 17.0373 81.9317 17.0373ZM81.7748 11.4616C82.5715 11.4616 83.2465 11.8593 83.4723 12.4315L79.386 14.1277C79.3332 12.3611 80.7535 11.4616 81.7748 11.4616Z" fill="#757575"></path>
+<path d="M5.76223 5.76019C6.5154 5.76019 7.26119 5.90854 7.95702 6.19676C8.65286 6.48499 9.28511 6.90744 9.81768 7.44001C10.3502 7.97258 10.7727 8.60483 11.0609 9.30067C11.3492 9.9965 11.4975 10.7423 11.4975 11.4955V12.0162H0.549092C0.411084 12.0159 0.278832 11.9609 0.181246 11.8633C0.0836591 11.7657 0.0286775 11.6335 0.0283205 11.4955C0.0281428 10.7424 0.176322 9.9966 0.464398 9.30077C0.752475 8.60494 1.1748 7.97268 1.70727 7.4401C2.23973 6.90751 2.87189 6.48503 3.56765 6.19679C4.2634 5.90855 5.00913 5.76019 5.76223 5.76019Z" fill="#F6B704"></path>
+<path d="M17.7536 6.28097C17.7536 7.03414 17.6053 7.77993 17.317 8.47576C17.0288 9.1716 16.6063 9.80385 16.0738 10.3364C15.5412 10.869 14.909 11.2914 14.2131 11.5797C13.5173 11.8679 12.7715 12.0162 12.0183 12.0162H11.4976V1.06783C11.4976 0.929712 11.5524 0.797253 11.6501 0.699589C11.7478 0.601925 11.8802 0.547058 12.0183 0.547058C12.7714 0.546881 13.5172 0.695062 14.213 0.983138C14.9088 1.27121 15.5411 1.69354 16.0737 2.226C16.6063 2.75846 17.0288 3.39063 17.317 4.08639C17.6052 4.78214 17.7536 5.52787 17.7536 6.28097Z" fill="#E54335"></path>
+<path d="M17.2328 18.2723C15.7117 18.2723 14.2529 17.668 13.1774 16.5925C12.1018 15.5169 11.4976 14.0581 11.4976 12.537V12.0162H22.446C22.5841 12.0162 22.7165 12.0711 22.8142 12.1688C22.9119 12.2664 22.9667 12.3989 22.9667 12.537C22.9669 13.2901 22.8187 14.0359 22.5307 14.7317C22.2426 15.4275 21.8203 16.0598 21.2878 16.5924C20.7553 17.125 20.1232 17.5474 19.4274 17.8357C18.7317 18.1239 17.9859 18.2723 17.2328 18.2723Z" fill="#4280EF"></path>
+<path d="M5.2417 17.7488C5.2417 16.9957 5.39006 16.25 5.6783 15.5542C5.96654 14.8585 6.38902 14.2263 6.9216 13.6938C7.45419 13.1614 8.08645 12.739 8.78228 12.451C9.4781 12.1629 10.2239 12.0147 10.977 12.0149H11.4977V22.9633C11.4974 23.1013 11.4424 23.2336 11.3448 23.3311C11.2472 23.4287 11.115 23.4837 10.977 23.4841C10.2238 23.4841 9.47801 23.3357 8.78217 23.0475C8.08634 22.7593 7.45409 22.3368 6.92152 21.8042C6.38895 21.2717 5.96649 20.6394 5.67827 19.9436C5.39005 19.2478 5.2417 18.502 5.2417 17.7488Z" fill="#34A353"></path>
+</g>
+<defs>
+<clipPath id="clip0_229_20020">
+<rect width="140" height="23.1304" fill="white" transform="translate(0 0.434753)"></rect>
+</clipPath>
+</defs>
+</svg></a>
+<nav class="_links_1s69q_177 _links_h8bjx_175">
+<ul class="unstyled">
+<li><a class="_link_1s69q_177 _link_h8bjx_175 _active_1s69q_219" href="photos/about/index.html" aria-label="Visit the Overview page">Overview</a></li>
+<li><a class="_link_1s69q_177 _link_h8bjx_175" href="photos/editing/index.html" aria-label="Visit the photo editing page">Photo editing</a></li>
+</ul>
+</nav>
+<div class="_cta_1s69q_229 _cta_h8bjx_136">
+<div class="_buttons_h8bjx_140"><a href="https://photos.google.com/login" class="_button_h8bjx_140 _desktopOnly_h8bjx_171 _variant:low-emphasis_ydg7y_89 _button_19jo3_108 _variant:low-emphasis_19jo3_214">
+<div class="_label_19jo3_126">Visit Google Photos</div>
+</a><a href="photos/download/index.html" aria-label="Download the Google Photos app" class="_button_h8bjx_140 _variant:high-emphasis_ydg7y_75 _button_19jo3_108 _variant:high-emphasis_19jo3_141">
+<div class="_label_19jo3_126">Get the app</div>
+</a></div>
+</div>
+</div>
+<div class="_mobileMenu_1s69q_263" role="navigation" data-slot="menu" inert="">
+<div class="_mobileMenuHeader_1s69q_287"><a href="photos/about/index.html" class="_logo_h8bjx_97" aria-label="Visit the Overview page"><svg class="_logoIcon_h8bjx_116" width="23" height="24" viewBox="0 0 23 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5.76223 5.76019C6.5154 5.76019 7.26119 5.90854 7.95702 6.19676C8.65286 6.48499 9.28511 6.90744 9.81768 7.44001C10.3502 7.97258 10.7727 8.60483 11.0609 9.30067C11.3492 9.9965 11.4975 10.7423 11.4975 11.4955V12.0162H0.549092C0.411084 12.0159 0.278832 11.9609 0.181246 11.8633C0.0836591 11.7657 0.0286775 11.6335 0.0283205 11.4955C0.0281428 10.7424 0.176322 9.9966 0.464398 9.30077C0.752475 8.60494 1.1748 7.97268 1.70727 7.4401C2.23973 6.90751 2.87189 6.48503 3.56765 6.19679C4.2634 5.90855 5.00913 5.76019 5.76223 5.76019Z" fill="#F6B704"></path>
+<path d="M17.7536 6.28097C17.7536 7.03414 17.6053 7.77993 17.317 8.47576C17.0288 9.1716 16.6063 9.80385 16.0738 10.3364C15.5412 10.869 14.909 11.2914 14.2131 11.5797C13.5173 11.8679 12.7715 12.0162 12.0183 12.0162H11.4976V1.06783C11.4976 0.929712 11.5524 0.797253 11.6501 0.699589C11.7478 0.601925 11.8802 0.547058 12.0183 0.547058C12.7714 0.546881 13.5172 0.695062 14.213 0.983138C14.9088 1.27121 15.5411 1.69354 16.0737 2.226C16.6063 2.75846 17.0288 3.39063 17.317 4.08639C17.6052 4.78214 17.7536 5.52787 17.7536 6.28097Z" fill="#E54335"></path>
+<path d="M17.2328 18.2723C15.7117 18.2723 14.2529 17.668 13.1774 16.5925C12.1018 15.5169 11.4976 14.0581 11.4976 12.537V12.0162H22.446C22.5841 12.0162 22.7165 12.0711 22.8142 12.1688C22.9119 12.2664 22.9667 12.3989 22.9667 12.537C22.9669 13.2901 22.8187 14.0359 22.5307 14.7317C22.2426 15.4275 21.8203 16.0598 21.2878 16.5924C20.7553 17.125 20.1232 17.5474 19.4274 17.8357C18.7317 18.1239 17.9859 18.2723 17.2328 18.2723Z" fill="#4280EF"></path>
+<path d="M5.2417 17.7488C5.2417 16.9957 5.39006 16.25 5.6783 15.5542C5.96654 14.8585 6.38902 14.2263 6.9216 13.6938C7.45419 13.1614 8.08645 12.739 8.78228 12.451C9.4781 12.1629 10.2239 12.0147 10.977 12.0149H11.4977V22.9633C11.4974 23.1013 11.4424 23.2336 11.3448 23.3311C11.2472 23.4287 11.115 23.4837 10.977 23.4841C10.2238 23.4841 9.47801 23.3357 8.78217 23.0475C8.08634 22.7593 7.45409 22.3368 6.92152 21.8042C6.38895 21.2717 5.96649 20.6394 5.67827 19.9436C5.39005 19.2478 5.2417 18.502 5.2417 17.7488Z" fill="#34A353"></path>
+</svg><svg class="_logoIconFull_h8bjx_127" width="140" height="24" viewBox="0 0 140 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_229_20020)">
+<path d="M90.2222 18.5604V6.16461H94.4465C96.5066 6.16461 98.3246 7.6877 98.3246 9.85195C98.3246 12.0162 96.5066 13.5393 94.4465 13.5393H91.8156V18.5604H90.2222ZM94.4817 12.0162C95.0557 12.0162 95.6062 11.7882 96.012 11.3823C96.4179 10.9764 96.6459 10.4259 96.6459 9.85195C96.6459 9.27796 96.4179 8.72747 96.012 8.3216C95.6062 7.91572 95.0557 7.6877 94.4817 7.6877H91.8156V12.0162H94.4817Z" fill="#757575"></path>
+<path d="M101.012 10.0778L100.944 11.2547H101.012C101.463 10.4755 102.537 9.80055 103.696 9.80055C105.86 9.80055 106.934 11.2722 106.934 13.3662V18.5604H105.341V13.6083C105.341 11.8498 104.459 11.2547 103.247 11.2547C101.862 11.2547 101.012 12.5694 101.012 13.868V18.5604H99.4204V6.16461H101.012V10.0778Z" fill="#757575"></path>
+<path d="M116.971 14.3184C116.971 16.8979 115.153 18.8376 112.609 18.8376C110.065 18.8376 108.247 16.8979 108.247 14.3184C108.247 11.7389 110.065 9.80054 112.609 9.80054C115.153 9.80054 116.971 11.7389 116.971 14.3184ZM115.379 14.3184C115.382 12.3801 114.029 11.256 112.609 11.256C111.189 11.256 109.836 12.3801 109.836 14.3184C109.836 16.2568 111.189 17.3835 112.606 17.3835C114.024 17.3835 115.382 16.2608 115.382 14.3184H115.379Z" fill="#757575"></path>
+<path d="M118.899 15.9809V11.5266H117.411V10.0765H118.899V7.48077H120.492V10.0765H122.568V11.5266H120.492V15.8551C120.492 16.8019 120.89 17.2402 121.634 17.2402C121.883 17.2524 122.133 17.2061 122.361 17.1049L122.915 18.4725C122.508 18.6374 122.072 18.7139 121.634 18.697C119.845 18.6957 118.899 17.7123 118.899 15.9809Z" fill="#757575"></path>
+<path d="M132.121 14.3184C132.121 16.8979 130.303 18.8376 127.759 18.8376C125.214 18.8376 123.396 16.8979 123.396 14.3184C123.396 11.7389 125.214 9.80054 127.759 9.80054C130.303 9.80054 132.121 11.7389 132.121 14.3184ZM130.529 14.3184C130.529 12.3801 129.176 11.2546 127.759 11.2546C126.341 11.2546 124.986 12.3801 124.986 14.3184C124.986 16.2568 126.339 17.3835 127.756 17.3835C129.174 17.3835 130.532 16.2608 130.532 14.3184H130.529Z" fill="#757575"></path>
+<path d="M132.831 16.4137L134.251 15.8253C134.702 16.8979 135.532 17.4173 136.551 17.4173C137.538 17.4173 138.247 16.9331 138.247 16.223C138.247 15.7901 137.987 15.3234 137.088 15.0975L135.374 14.6823C134.595 14.4916 133.106 13.8166 133.106 12.3273C133.106 10.7866 134.699 9.80054 136.464 9.80054C137.936 9.80054 139.217 10.4769 139.736 11.7741L138.351 12.3449C138.023 11.5482 137.243 11.2195 136.413 11.2195C135.512 11.2195 134.733 11.6253 134.733 12.3097C134.733 12.8508 135.183 13.1416 135.858 13.2972L137.538 13.6962C139.217 14.0939 139.876 15.1327 139.876 16.1716C139.876 17.6771 138.523 18.8376 136.533 18.8376C134.487 18.8376 133.327 17.6257 132.831 16.4137Z" fill="#757575"></path>
+<path d="M29.7207 11.7389C29.7207 7.8257 33.0104 4.63883 36.9236 4.63883C37.8247 4.62417 38.7197 4.78977 39.556 5.12589C40.3922 5.46201 41.1528 5.96188 41.7932 6.59613L40.4256 7.96367C39.4877 7.05902 38.2306 6.56123 36.9277 6.57854C34.0708 6.57854 31.8376 8.87806 31.8376 11.7389C31.8376 14.5998 34.0708 16.898 36.9277 16.898C38.7808 16.898 39.8372 16.154 40.5122 15.4777C41.0668 14.9244 41.4293 14.125 41.5686 13.0429H36.9277V11.0978H43.4556C43.5294 11.4993 43.5643 11.907 43.5597 12.3152C43.5597 13.7693 43.1621 15.5697 41.8797 16.852C40.6339 18.1505 39.0392 18.8431 36.9277 18.8431C33.005 18.8377 29.7207 15.6522 29.7207 11.7389Z" fill="#757575"></path>
+<path d="M48.8309 9.69507C46.3028 9.69507 44.2427 11.6172 44.2427 14.2657C44.2427 16.9142 46.3028 18.8377 48.8309 18.8377C51.359 18.8377 53.4191 16.898 53.4191 14.2657C53.4191 11.6334 51.359 9.69507 48.8309 9.69507ZM48.8309 17.0373C47.4458 17.0373 46.2514 15.8943 46.2514 14.2657C46.2514 12.6371 47.4458 11.4955 48.8309 11.4955C50.216 11.4955 51.4104 12.6209 51.4104 14.2657C51.4104 15.9105 50.216 17.0373 48.8309 17.0373Z" fill="#757575"></path>
+<path d="M58.8407 9.69507C56.3125 9.69507 54.2524 11.6172 54.2524 14.2657C54.2524 16.9142 56.3125 18.8377 58.8407 18.8377C61.3688 18.8377 63.4289 16.898 63.4289 14.2657C63.4289 11.6334 61.3688 9.69507 58.8407 9.69507ZM58.8407 17.0373C57.4555 17.0373 56.2611 15.8943 56.2611 14.2657C56.2611 12.6371 57.4555 11.4955 58.8407 11.4955C60.2258 11.4955 61.4202 12.6209 61.4202 14.2657C61.4202 15.9105 60.2258 17.0373 58.8407 17.0373Z" fill="#757575"></path>
+<path d="M71.1271 9.97237V10.715H71.0581C70.6077 10.1739 69.742 9.69373 68.6518 9.69373C66.3658 9.69373 64.2705 11.7024 64.2705 14.2819C64.2705 16.8615 66.3658 18.8363 68.6518 18.8363C69.742 18.8363 70.6077 18.3507 71.0581 17.7975H71.1271V18.4549C71.1271 20.2039 70.1924 21.1386 68.6856 21.1386C67.456 21.1386 66.6945 20.2553 66.3861 19.5154L64.6371 20.2431C64.9659 21.0464 65.5273 21.7331 66.2491 22.2151C66.9709 22.6971 67.8203 22.9525 68.6883 22.9484C71.0433 22.9484 73.0344 21.5633 73.0344 18.1857V9.97237H71.1271ZM68.8276 17.0373C67.4425 17.0373 66.2819 15.8767 66.2819 14.2833C66.2819 12.6899 67.4425 11.4955 68.8276 11.4955C70.2127 11.4955 71.2624 12.6736 71.2624 14.2833C71.2624 15.893 70.1924 17.0373 68.8249 17.0373H68.8276Z" fill="#757575"></path>
+<path d="M76.4252 5.12445H74.4165V18.5604H76.4252V5.12445Z" fill="#757575"></path>
+<path d="M81.9317 17.0373C80.9091 17.0373 80.1827 16.5692 79.7147 15.6521L85.8273 13.124L85.6231 12.6087C85.243 11.5861 84.0824 9.6991 81.7098 9.6991C79.3373 9.6991 77.3989 11.5522 77.3989 14.2697C77.3989 16.833 79.3373 18.8417 81.9357 18.8417C82.689 18.8456 83.4315 18.6622 84.0964 18.308C84.7613 17.9539 85.3277 17.44 85.7448 16.8127L84.1866 15.7739C83.6631 16.5314 82.9529 17.0373 81.9317 17.0373ZM81.7748 11.4616C82.5715 11.4616 83.2465 11.8593 83.4723 12.4315L79.386 14.1277C79.3332 12.3611 80.7535 11.4616 81.7748 11.4616Z" fill="#757575"></path>
+<path d="M5.76223 5.76019C6.5154 5.76019 7.26119 5.90854 7.95702 6.19676C8.65286 6.48499 9.28511 6.90744 9.81768 7.44001C10.3502 7.97258 10.7727 8.60483 11.0609 9.30067C11.3492 9.9965 11.4975 10.7423 11.4975 11.4955V12.0162H0.549092C0.411084 12.0159 0.278832 11.9609 0.181246 11.8633C0.0836591 11.7657 0.0286775 11.6335 0.0283205 11.4955C0.0281428 10.7424 0.176322 9.9966 0.464398 9.30077C0.752475 8.60494 1.1748 7.97268 1.70727 7.4401C2.23973 6.90751 2.87189 6.48503 3.56765 6.19679C4.2634 5.90855 5.00913 5.76019 5.76223 5.76019Z" fill="#F6B704"></path>
+<path d="M17.7536 6.28097C17.7536 7.03414 17.6053 7.77993 17.317 8.47576C17.0288 9.1716 16.6063 9.80385 16.0738 10.3364C15.5412 10.869 14.909 11.2914 14.2131 11.5797C13.5173 11.8679 12.7715 12.0162 12.0183 12.0162H11.4976V1.06783C11.4976 0.929712 11.5524 0.797253 11.6501 0.699589C11.7478 0.601925 11.8802 0.547058 12.0183 0.547058C12.7714 0.546881 13.5172 0.695062 14.213 0.983138C14.9088 1.27121 15.5411 1.69354 16.0737 2.226C16.6063 2.75846 17.0288 3.39063 17.317 4.08639C17.6052 4.78214 17.7536 5.52787 17.7536 6.28097Z" fill="#E54335"></path>
+<path d="M17.2328 18.2723C15.7117 18.2723 14.2529 17.668 13.1774 16.5925C12.1018 15.5169 11.4976 14.0581 11.4976 12.537V12.0162H22.446C22.5841 12.0162 22.7165 12.0711 22.8142 12.1688C22.9119 12.2664 22.9667 12.3989 22.9667 12.537C22.9669 13.2901 22.8187 14.0359 22.5307 14.7317C22.2426 15.4275 21.8203 16.0598 21.2878 16.5924C20.7553 17.125 20.1232 17.5474 19.4274 17.8357C18.7317 18.1239 17.9859 18.2723 17.2328 18.2723Z" fill="#4280EF"></path>
+<path d="M5.2417 17.7488C5.2417 16.9957 5.39006 16.25 5.6783 15.5542C5.96654 14.8585 6.38902 14.2263 6.9216 13.6938C7.45419 13.1614 8.08645 12.739 8.78228 12.451C9.4781 12.1629 10.2239 12.0147 10.977 12.0149H11.4977V22.9633C11.4974 23.1013 11.4424 23.2336 11.3448 23.3311C11.2472 23.4287 11.115 23.4837 10.977 23.4841C10.2238 23.4841 9.47801 23.3357 8.78217 23.0475C8.08634 22.7593 7.45409 22.3368 6.92152 21.8042C6.38895 21.2717 5.96649 20.6394 5.67827 19.9436C5.39005 19.2478 5.2417 18.502 5.2417 17.7488Z" fill="#34A353"></path>
+</g>
+<defs>
+<clipPath id="clip0_229_20020">
+<rect width="140" height="23.1304" fill="white" transform="translate(0 0.434753)"></rect>
+</clipPath>
+</defs>
+</svg></a><button class="_circleButton_1s69q_115" data-slot="close" aria-label="Close nav menu"><svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+<path d="m291-240-51-51 189-189-189-189 51-51 189 189 189-189 51 51-189 189 189 189-51 51-189-189-189 189Z" fill="currentColor"></path>
+</svg></button></div>
+<div class="_mobileMenuLinks_1s69q_303">
+<ul class="unstyled">
+<li><a class="_mobileMenuLink_1s69q_303 _active_1s69q_219" href="photos/about/index.html" aria-label="Visit the Overview page"><span>Overview</span></a></li>
+<li><a class="_mobileMenuLink_1s69q_303" href="photos/editing/index.html" aria-label="Visit the photo editing page"><span>Photo editing</span></a></li>
+</ul>
+</div>
+<div class="_mobileMenuFooter_1s69q_345 _mobileMenuFooter_h8bjx_161">
+<div>
+<div class="_buttons_h8bjx_140"><a href="https://photos.google.com/login" class="_button_h8bjx_140 _desktopOnly_h8bjx_171 _variant:low-emphasis_ydg7y_89 _button_19jo3_108 _variant:low-emphasis_19jo3_214">
+<div class="_label_19jo3_126">Visit Google Photos</div>
+</a><a href="photos/download/index.html" aria-label="Download the Google Photos app" class="_button_h8bjx_140 _variant:high-emphasis_ydg7y_75 _button_19jo3_108 _variant:high-emphasis_19jo3_141">
+<div class="_label_19jo3_126">Get the app</div>
+</a></div>
+</div>
+</div>
+</div>
+</bds-header>
+<main id="main">
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:56px;--spacer-height--md:56px;--spacer-height--sm:56px;"></div>
+<section id="hero" aria-label="Google Photos makes {editing, organization, search, and photos} feel like magic." class="_hero_ndu4w_76 _container_1jejk_75"><photos-overview-hero class="_layout_ndu4w_89">
+<picture class="_placeholderImage_ndu4w_120">
+<source srcset="https://lh3.googleusercontent.com/DDjcBEIK26X43MEH2l5q4NY5OiNK1kYrRgercHFRJ6ejsxN88ITFMs7Kz1R53xXOc72g-pEuot-kAvPtsNlPyWde7V3fzdWABpQ=e365-pa-nu-w2880-rw 2x, https://lh3.googleusercontent.com/DDjcBEIK26X43MEH2l5q4NY5OiNK1kYrRgercHFRJ6ejsxN88ITFMs7Kz1R53xXOc72g-pEuot-kAvPtsNlPyWde7V3fzdWABpQ=e365-pa-nu-w1440-rw"/>
+
+<img src="https://lh3.googleusercontent.com/DDjcBEIK26X43MEH2l5q4NY5OiNK1kYrRgercHFRJ6ejsxN88ITFMs7Kz1R53xXOc72g-pEuot-kAvPtsNlPyWde7V3fzdWABpQ=e365-pa-nu-s0" width="1440" height="678" alt="" loading="eager" fetchpriority="high"/>
+</picture>
+<div class="_content_ndu4w_134">
+<picture class="_logo_ndu4w_157">
+
+<img src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/14dc967537b3bc4ac04c9613cab7b35c2970a7d8.svg" width="175" height="28" alt="Google Photos logo" loading="eager" fetchpriority="high"/>
+</picture>
+<h1 class="_title_ndu4w_196 _title:animated_ndu4w_196 _size:headline-0_l91ox_108"><span>Makes </span>
+<ul class="_words_ndu4w_215 unstyled">
+<li>
+<div class="_word_ndu4w_215" data-slot="word" data-timestamp="0"><strong class="_wordInner_ndu4w_339">editing</strong></div>
+</li>
+<li>
+<div class="_word_ndu4w_215" data-slot="word" data-timestamp="5310"><strong class="_wordInner_ndu4w_339">organization</strong></div>
+</li>
+<li>
+<div class="_word_ndu4w_215" data-slot="word" data-timestamp="9960"><strong class="_wordInner_ndu4w_339">search</strong></div>
+</li>
+<li>
+<div class="_word_ndu4w_215" data-slot="word" data-timestamp="14470"><strong class="_wordInner_ndu4w_339">photos</strong></div>
+</li>
+</ul><span> feel like magic</span>
+</h1>
+</div>
+<div class="_asset_ndu4w_345">
+<picture class="_assetPoster_ndu4w_376">
+<source srcset="https://lh3.googleusercontent.com/VjUcAGuawxzNiJho3tewS1w5szEKhRh6PzsdtHV1avoUolCH9YSBCH2gFezESRV21b9gv6yRwQ7C6KRS9wqbz0jBICRGtoXgUdRz=e365-pa-nu-w1200-rj-v2" media="(max-width: 480px)"/>
+<source srcset="https://lh3.googleusercontent.com/mroBFNqnx0qcUbZX4IVI5ON7UV52nS1d8ifYTiGIPgFfBlyPamI6HA4YXe5oaYNExxRwmT6BqYNTCAVJi0FtP6aOhk3J1HDBQCG5JQ=e365-pa-nu-w1200-rj-v2" media="(max-width: 768px)"/>
+<source srcset="https://lh3.googleusercontent.com/5XI7KgbKzZlz_xfszl8RkjY6V-oRIpSd8jJkYaCktNcwkHuJ1I7Sp3sO4w59AVeN3NOV_k5A2lIfRu6WV-fF-a1dr_gOZoabZ5s6=e365-pa-nu-w1200-rj-v2"/>
+
+<img alt="" src="https://lh3.googleusercontent.com/VjUcAGuawxzNiJho3tewS1w5szEKhRh6PzsdtHV1avoUolCH9YSBCH2gFezESRV21b9gv6yRwQ7C6KRS9wqbz0jBICRGtoXgUdRz=e365-pa-nu-w1200-rj-v2" fetchpriority="high"/>
+</picture><video class="_assetVideo_ndu4w_386" preload="none" muted="" playsinline="" disableremoteplayback="" disablepictureinpicture="" data-slot="video" style="--video-aspect-ratio-mobile:750/696;--video-aspect-ratio-tablet:1376/952;--video-aspect-ratio-desktop:1960/1356;" aria-label="Animation">
+<source src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/1a1546cb7c0ba4225b01e994d4ead6e8a919f3c1.compressed.mp4" type="video/mp4" media="(max-width: 480px)"/>
+<source src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/ecc6a1e061c39a8408ed020535c9281946cd9a77.compressed.mp4" type="video/mp4" media="(max-width: 768px)"/>
+<source src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/1a8b5bb28bbdd2f991dd5a9e0476389d12931c1a.compressed.mp4" type="video/mp4"/>
+</video><button class="_toggleButton_ndu4w_413 _toggleButton_10ywg_75" data-slot="toggle-button" aria-pressed="false" aria-label="Play video"><svg class="_playIcon_10ywg_111" width="10" height="15" viewBox="0 0 10 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 7.5L0 0V15L10 7.5Z" fill="currentColor"></path>
+</svg><svg class="_pauseIcon_10ywg_112" width="12" height="15" viewBox="0 0 12 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="4" height="15" fill="currentColor"></rect>
+<rect x="8" width="4" height="15" fill="currentColor"></rect>
+</svg><svg class="_replayIcon_10ywg_113" width="16" height="18" viewBox="0 0 16 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.12812 17.1275C7.11875 17.1275 6.16842 16.9336 5.27713 16.5458C4.38583 16.158 3.61021 15.6341 2.95025 14.9742C2.29029 14.3142 1.76641 13.5386 1.37859 12.6473C0.990781 11.756 0.796875 10.8057 0.796875 9.79629H2.74922C2.74922 11.2705 3.27715 12.5355 4.33301 13.5914C5.38887 14.6473 6.65391 15.1752 8.12812 15.1752C9.60234 15.1752 10.8674 14.6473 11.9232 13.5914C12.9791 12.5355 13.507 11.2705 13.507 9.79629C13.507 8.32207 12.9791 7.05703 11.9232 6.00117C10.8674 4.94531 9.59975 4.41738 8.12036 4.41738H8.12812L9.1043 5.39356L7.72969 6.80801L4.38281 3.46113L7.72969 0.114258L9.1043 1.48887L8.1082 2.46504H8.12812C9.1375 2.46504 10.0878 2.65895 10.9791 3.04676C11.8704 3.43457 12.646 3.95846 13.306 4.61841C13.966 5.27837 14.4898 6.054 14.8777 6.94529C15.2655 7.83658 15.4594 8.78691 15.4594 9.79629C15.4594 10.8057 15.2655 11.756 14.8777 12.6473C14.4898 13.5386 13.966 14.3142 13.306 14.9742C12.646 15.6341 11.8704 16.158 10.9791 16.5458C10.0878 16.9336 9.1375 17.1275 8.12812 17.1275Z" fill="currentColor"></path>
+</svg></button>
+</div>
+</photos-overview-hero></section>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:0px;--spacer-height--md:56px;--spacer-height--sm:56px;"></div><photos-qr-popout>
+<aside id="qrcode-popout" aria-labelledby="qrcode-popout-title" aria-hidden="true" data-slot="container" class="_container_yn7b4_75 expanded _container_1jejk_75">
+<div class="_content_yn7b4_109">
+<div class="_phoneIcon_yn7b4_115"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="presentation">
+<mask id="mask0_395_132158" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<rect width="24" height="24" fill="#D9D9D9"></rect>
+</mask>
+<g mask="url(#mask0_395_132158)">
+<path d="M7 23C6.45 23 5.97917 22.8042 5.5875 22.4125C5.19583 22.0208 5 21.55 5 21V3C5 2.45 5.19583 1.97917 5.5875 1.5875C5.97917 1.19583 6.45 1 7 1H17C17.55 1 18.0208 1.19583 18.4125 1.5875C18.8042 1.97917 19 2.45 19 3V6.1C19.3 6.21667 19.5417 6.4 19.725 6.65C19.9083 6.9 20 7.18333 20 7.5V9.5C20 9.81667 19.9083 10.1 19.725 10.35C19.5417 10.6 19.3 10.7833 19 10.9V21C19 21.55 18.8042 22.0208 18.4125 22.4125C18.0208 22.8042 17.55 23 17 23H7ZM7 21H17V3H7V21ZM12 6C12.2833 6 12.5208 5.90417 12.7125 5.7125C12.9042 5.52083 13 5.28333 13 5C13 4.71667 12.9042 4.47917 12.7125 4.2875C12.5208 4.09583 12.2833 4 12 4C11.7167 4 11.4792 4.09583 11.2875 4.2875C11.0958 4.47917 11 4.71667 11 5C11 5.28333 11.0958 5.52083 11.2875 5.7125C11.4792 5.90417 11.7167 6 12 6Z" fill="currentColor"></path>
+</g>
+</svg></div><button class="_toggle_yn7b4_130" type="button" aria-controls="qrcode-popout" aria-expanded="true" data-slot="toggle-popout"><svg xmlns="http://www.w3.org/2000/svg" width="8" height="12" viewBox="0 0 8 12" fill="none" role="presentation">
+<path d="M1.05714 11.9114L0 10.8543L4.89857 5.95571L0 1.05714L1.05714 0L7.01285 5.95571L1.05714 11.9114Z" fill="currentColor"></path>
+</svg></button>
+<div class="_imageContainer_yn7b4_162" data-slot="collapsable"><photos-qr-code class="_image_yn7b4_149 _qrCode_yn7b4_168" url="https://g.co/photos/download"></photos-qr-code></div>
+<div class="_body_yn7b4_150 _size:caption_l91ox_310" id="qrcode-popout-title" data-slot="collapsable">
+<p>Download the Google Photos app</p>
+</div>
+</div>
+</aside>
+</photos-qr-popout>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:56px;--spacer-height--md:0px;--spacer-height--sm:0px;"></div><photos-jumplinks id="jumplinks" class="_jumplinks_hqixv_112 _jumplinksDesktop_hqixv_112" role="navigation" aria-label="Jump to section">
+<div class="_jumplinksLayout_hqixv_128" data-slot="scroller">
+<ul class="_linksList_hqixv_143 unstyled">
+<li><a class="_link_hqixv_143" href="photos/about" aria-label="Go to section: Search" data-slot="link">Search</a></li>
+<li><a class="_link_hqixv_143" href="photos/about" aria-label="Go to section: Edit" data-slot="link">Edit</a></li>
+<li><a class="_link_hqixv_143" href="photos/about" aria-label="Go to section: Organize" data-slot="link">Organize</a></li>
+<li><a class="_link_hqixv_143" href="photos/about" aria-label="Go to section: Share" data-slot="link">Share</a></li>
+<li><a class="_link_hqixv_143" href="photos/about" aria-label="Go to section: Safety" data-slot="link">Safety</a></li>
+</ul>
+<div class="_ctasWrap_hqixv_210">
+<ul class="_ctasList_hqixv_218 unstyled" data-slot="ctas">
+<li><a href="photos/download/index.html" aria-label="Download the Google Photos app" class="_cta_hqixv_210 _variant:high-emphasis_ydg7y_75 _button_19jo3_108 _variant:high-emphasis_19jo3_141">
+<div class="_label_19jo3_126">Get the app</div>
+</a></li>
+</ul>
+</div>
+</div>
+</photos-jumplinks><photos-jumplinks-mobile id="jumplinks" class="_jumplinksMobile_hqixv_117" role="navigation" aria-label="Jump to section">
+<div class="_menuWrap_hqixv_287"><button class="_menuTrigger_hqixv_294" data-slot="mobile-menu-trigger" aria-controls="jumplinks-mobile-menu" aria-haspopup="listbox" aria-expanded="false">
+<div class="_menuTriggerLabels_hqixv_307">
+<div class="_menuTriggerLabel_hqixv_307 active" data-slot="mobile-menu-trigger-label" data-link="default">Explore</div>
+<div class="_menuTriggerLabel_hqixv_307" data-slot="mobile-menu-trigger-label" data-link="#search" inert="">Search</div>
+<div class="_menuTriggerLabel_hqixv_307" data-slot="mobile-menu-trigger-label" data-link="#edit" inert="">Edit</div>
+<div class="_menuTriggerLabel_hqixv_307" data-slot="mobile-menu-trigger-label" data-link="#organize" inert="">Organize</div>
+<div class="_menuTriggerLabel_hqixv_307" data-slot="mobile-menu-trigger-label" data-link="#share" inert="">Share</div>
+<div class="_menuTriggerLabel_hqixv_307" data-slot="mobile-menu-trigger-label" data-link="#safety" inert="">Safety</div>
+</div><svg class="_menuTriggerIcon_hqixv_324" width="15" height="10" viewBox="0 0 15 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M13 1.5L7.5 7.5L2 1.5" stroke="#202124" stroke-width="2.63636" stroke-linecap="round"></path>
+</svg>
+</button>
+<div id="jumplinks-mobile-menu" class="_menu_hqixv_287" role="listbox" data-slot="mobile-menu" inert="">
+<ul class="_menuList_hqixv_353 unstyled">
+<li><a class="_menuLink_hqixv_359" href="photos/about" aria-selected="false" data-slot="link">Search</a></li>
+<li><a class="_menuLink_hqixv_359" href="photos/about" aria-selected="false" data-slot="link">Edit</a></li>
+<li><a class="_menuLink_hqixv_359" href="photos/about" aria-selected="false" data-slot="link">Organize</a></li>
+<li><a class="_menuLink_hqixv_359" href="photos/about" aria-selected="false" data-slot="link">Share</a></li>
+<li><a class="_menuLink_hqixv_359" href="photos/about" aria-selected="false" data-slot="link">Safety</a></li>
+</ul>
+</div>
+</div>
+<ul class="unstyled">
+<li><a href="photos/download/index.html" class="_variant:high-emphasis_ydg7y_75 _button_19jo3_108 _variant:high-emphasis_19jo3_141">
+<div class="_label_19jo3_126">Get the app</div>
+</a></li>
+</ul>
+</photos-jumplinks-mobile>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:56px;--spacer-height--md:56px;--spacer-height--sm:0px;"></div>
+<section id="create" class="_bg_1c7tv_75 _bg:grey-50_1c7tv_81 _container_1jejk_75">
+<div class="_modules_1c7tv_93">
+<div class="_module_1g8eg_74 inview _container_1jejk_75">
+<div class="_textContainer_1g8eg_83">
+<h2 class="_title_1g8eg_131 _size:headline-2_l91ox_162" data-inview-effect="fade-up" data-inview-stagger="0">Discover new ways to create</h2>
+<div class="_body_1g8eg_138 _size:body-large_l91ox_297" data-inview-effect="fade-up" data-inview-stagger="1">
+<p>Got the perfect selfie? Remix it into different styles. Took an action pic? Bring it to life as a video. Had an epic trip? Make it a collage. Explore all these tools and more in the new Create tab.<sup class="footnoteButton"><a aria-label="Show footnote 1" href="photos/about">1</a></sup></p>
+</div>
+<div class="_buttons_1g8eg_219" data-inview-effect="fade-up" data-inview-stagger="2"><a href="https://photos.google.com/link/create?utm_campaign=gtm_create&amp;utm_source=hpp" class="_variant:medium-emphasis_ydg7y_83 _button_19jo3_108 _variant:medium-emphasis_19jo3_179">
+<div class="_label_19jo3_126">Create now</div>
+</a></div>
+</div>
+</div>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:56px;--spacer-height--md:48px;--spacer-height--sm:48px;"></div>
+<div class="_module_sfqb7_131 inview _container_1jejk_75">
+<div class="_content_sfqb7_131">
+<div class="_tiles_sfqb7_121">
+<div class="_tile_sfqb7_121 type:VideoTile">
+<div class="_video_d7i1r_75"><photos-responsive-video playwheninview="" loop=""><video class="_video_1k4w2_75 _breakpoint:desktop_1k4w2_109" preload="none" muted="" playsinline="" disablepictureinpicture="" disableremoteplayback="" loop="" aria-label="Video showcasing examples of videos created by Remix." style="aspect-ratio:1920/1080;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/665f70c39b5cf5831b7e5550063967f5aa58abdf.mp4" type="video/mp4"/>
+</video><video class="_video_1k4w2_75 _breakpoint:tablet-lt_1k4w2_94" preload="none" muted="" playsinline="" disablepictureinpicture="" disableremoteplayback="" loop="" aria-label="Video">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/3eb500092cf48d92f2af5e49d051f6dac4626124.mp4" type="video/mp4"/>
+</video><button class="_toggleButton_10ywg_75" data-slot="toggle-button" aria-pressed="false" aria-label="Play video"><svg class="_playIcon_10ywg_111" width="10" height="15" viewBox="0 0 10 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 7.5L0 0V15L10 7.5Z" fill="currentColor"></path>
+</svg><svg class="_pauseIcon_10ywg_112" width="12" height="15" viewBox="0 0 12 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="4" height="15" fill="currentColor"></rect>
+<rect x="8" width="4" height="15" fill="currentColor"></rect>
+</svg><svg class="_replayIcon_10ywg_113" width="16" height="18" viewBox="0 0 16 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.12812 17.1275C7.11875 17.1275 6.16842 16.9336 5.27713 16.5458C4.38583 16.158 3.61021 15.6341 2.95025 14.9742C2.29029 14.3142 1.76641 13.5386 1.37859 12.6473C0.990781 11.756 0.796875 10.8057 0.796875 9.79629H2.74922C2.74922 11.2705 3.27715 12.5355 4.33301 13.5914C5.38887 14.6473 6.65391 15.1752 8.12812 15.1752C9.60234 15.1752 10.8674 14.6473 11.9232 13.5914C12.9791 12.5355 13.507 11.2705 13.507 9.79629C13.507 8.32207 12.9791 7.05703 11.9232 6.00117C10.8674 4.94531 9.59975 4.41738 8.12036 4.41738H8.12812L9.1043 5.39356L7.72969 6.80801L4.38281 3.46113L7.72969 0.114258L9.1043 1.48887L8.1082 2.46504H8.12812C9.1375 2.46504 10.0878 2.65895 10.9791 3.04676C11.8704 3.43457 12.646 3.95846 13.306 4.61841C13.966 5.27837 14.4898 6.054 14.8777 6.94529C15.2655 7.83658 15.4594 8.78691 15.4594 9.79629C15.4594 10.8057 15.2655 11.756 14.8777 12.6473C14.4898 13.5386 13.966 14.3142 13.306 14.9742C12.646 15.6341 11.8704 16.158 10.9791 16.5458C10.0878 16.9336 9.1375 17.1275 8.12812 17.1275Z" fill="currentColor"></path>
+</svg></button></photos-responsive-video></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:56px;--spacer-height--md:56px;--spacer-height--sm:56px;"></div>
+<section id="storage" class="_bg_1c7tv_75 _bg:blue-50_1c7tv_75 _container_1jejk_75">
+<div class="_modules_1c7tv_93">
+<div class="_module_1g8eg_74 inview _container_1jejk_75">
+<div class="_textContainer_1g8eg_83">
+<h2 class="_title_1g8eg_131 _size:headline-2_l91ox_162" data-inview-effect="fade-up" data-inview-stagger="0">Get more from every memory</h2>
+</div>
+</div>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:56px;--spacer-height--md:56px;--spacer-height--sm:40px;"></div>
+<div id="get-more-reversible" class="_module_sfqb7_131 inview _container_1jejk_75">
+<div class="_content_sfqb7_131">
+<div class="_tiles_sfqb7_121">
+<div class="_tile_sfqb7_121 type:ReversibleTile _module_1q1ry_82 _container_1jejk_75"><photos-reversible-tile>
+<div class="_tiles_1q1ry_86" data-photos-reversible-tile-container="true">
+<div class="_frontTile_1q1ry_91 _bg:white_1q1ry_75" data-photos-reversible-tile-front="true">
+<div class="_frontTileContent_1q1ry_97 _module_p6hwi_85 _bg:transparent_p6hwi_82 _container_1jejk_75">
+<div class="_animation_p6hwi_104" data-inview-effect="fade-up" data-inview-stagger="0"><photos-responsive-video class="_animationVideo_p6hwi_107" playwheninview="" loop=""><video class="_video_1k4w2_75 _breakpoint:all_1k4w2_80" preload="none" muted="" playsinline="" disablepictureinpicture="" disableremoteplayback="" loop="" aria-label="An animated icon indicating photos being uploaded to cloud storage.">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/25b5f516c8d09241ecccad336ebf807e3cc50531.compressed.mp4" type="video/mp4"/>
+</video></photos-responsive-video></div>
+<div class="_text_p6hwi_112">
+<h3 class="_size:headline-3_l91ox_188" data-inview-effect="fade-up" data-inview-stagger="1">15 GB of storage<sup class="footnoteButton"><a aria-label="Show footnote 2" href="photos/about">2</a></sup></h3>
+<div class="_size:body_l91ox_297" data-inview-effect="fade-up" data-inview-stagger="2">
+<p>That’s 3x more than many other cloud storage services.</p>
+</div>
+<div class="_button_p6hwi_120" data-inview-effect="fade-up" data-inview-stagger="3"><a href="https://one.google.com/about/plans" aria-label="Explore Google One storage plans" target="_blank" rel="noopener noreferrer" class="_variant:low-emphasis_ydg7y_89 _rightIcon:arrow_right_ydg7y_95 _button_19jo3_108 _variant:low-emphasis_19jo3_214">
+<div class="_label_19jo3_126">Unlock even more</div>
+<div class="_rightIcon_19jo3_133"><svg width="7" height="10" viewBox="0 0 7 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1.99988 0.848145L0.942383 1.90564L4.37738 5.34814L0.942383 8.79064L1.99988 9.84814L6.49988 5.34814L1.99988 0.848145Z" fill="currentColor"></path>
+</svg></div>
+</a></div>
+</div>
+</div><button aria-label="Open" class="_flipButton_1q1ry_94 _openButton_1q1ry_172" data-open-button="true" tabindex="0"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8 0.0476074V16.0476M0 8.04761H16" stroke="white" stroke-width="2.57143"></path>
+</svg></button>
+</div>
+<div class="_reverseTile_1q1ry_100 _bg:blue-700_1q1ry_78" data-photos-reversible-tile-reverse="true">
+<div class="_reverseTileContent_1q1ry_100 _module_ybz6b_176 _bg:transparent_ybz6b_127 _container_1jejk_75">
+<div class="_icon_ybz6b_133" data-inview-effect="fade-up" data-inview-stagger="0">
+<picture class="_icon_ybz6b_133">
+
+<img src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/7fb2a6218ed1d6ea9f4e3b16678a865ce6223d7e.svg" width="80" height="80" alt="Cloud icon with a checkbox" loading="lazy" fetchpriority="auto"/>
+</picture>
+</div>
+<div class="_text_ybz6b_85">
+<h3 class="_title_ybz6b_102 _size:headline-5_l91ox_240" data-inview-effect="fade-up" data-inview-stagger="1">You get 15 GB of storage, so you can backup and keep your memories safe automatically — at no cost.<sup class="footnoteButton"><a aria-label="Show footnote 2" href="photos/about">2</a></sup></h3>
+<ul class="_buttons_ybz6b_256 _buttonGroup_1shg1_75 _align:center_1shg1_83 _mobileAlign:center_1shg1_92 _firstButtonLowEmphasis_1shg1_98 unstyled">
+<li><a href="https://one.google.com/about/plans" aria-label="Explore Google One plans" target="_blank" rel="noopener noreferrer" class="_variant:low-emphasis_ydg7y_89 _rightIcon:arrow_right_ydg7y_95 _button_19jo3_108 _variant:low-emphasis_19jo3_214">
+<div class="_label_19jo3_126">Get even more with Google One</div>
+<div class="_rightIcon_19jo3_133"><svg width="7" height="10" viewBox="0 0 7 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1.99988 0.848145L0.942383 1.90564L4.37738 5.34814L0.942383 8.79064L1.99988 9.84814L6.49988 5.34814L1.99988 0.848145Z" fill="currentColor"></path>
+</svg></div>
+</a></li>
+</ul>
+</div>
+</div><button aria-label="Close" class="_flipButton_1q1ry_94 _closeButton_1q1ry_182" data-close-button="true" tabindex="0"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12.6569 1.34313L1.34315 12.6568M1.34315 1.34313L12.6569 12.6568" stroke="#185ABC" stroke-width="2.57143"></path>
+</svg></button>
+</div>
+</div>
+</photos-reversible-tile></div>
+<div class="_tile_sfqb7_121 _tile:index-1_sfqb7_204 type:ReversibleTile _module_1q1ry_82 _container_1jejk_75"><photos-reversible-tile>
+<div class="_tiles_1q1ry_86" data-photos-reversible-tile-container="true">
+<div class="_frontTile_1q1ry_91 _bg:white_1q1ry_75" data-photos-reversible-tile-front="true">
+<div class="_frontTileContent_1q1ry_97 _module_p6hwi_85 _bg:transparent_p6hwi_82 _container_1jejk_75">
+<div class="_animation_p6hwi_104" data-inview-effect="fade-up" data-inview-stagger="0"><photos-responsive-video class="_animationVideo_p6hwi_107" playwheninview="" loop=""><video class="_video_1k4w2_75 _breakpoint:all_1k4w2_80" preload="none" muted="" playsinline="" disablepictureinpicture="" disableremoteplayback="" loop="" aria-label="A photo icon with sparkle indicating AI capability.">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/120399b63f09dea02b09c9fbe8bf823bddbb4fd5.compressed.mp4" type="video/mp4"/>
+</video></photos-responsive-video></div>
+<div class="_text_p6hwi_112">
+<h3 class="_size:headline-3_l91ox_188" data-inview-effect="fade-up" data-inview-stagger="1">AI-powered tools</h3>
+<div class="_size:body_l91ox_297" data-inview-effect="fade-up" data-inview-stagger="2">
+<p>Edit, organize, search, and more.</p>
+</div>
+</div>
+</div><button aria-label="Open" class="_flipButton_1q1ry_94 _openButton_1q1ry_172" data-open-button="true" tabindex="0"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8 0.0476074V16.0476M0 8.04761H16" stroke="white" stroke-width="2.57143"></path>
+</svg></button>
+</div>
+<div class="_reverseTile_1q1ry_100 _bg:blue-700_1q1ry_78" data-photos-reversible-tile-reverse="true">
+<div class="_reverseTileContent_1q1ry_100 _module_ybz6b_176 _bg:transparent_ybz6b_127 _container_1jejk_75">
+<div class="_icon_ybz6b_133" data-inview-effect="fade-up" data-inview-stagger="0">
+<picture class="_icon_ybz6b_133">
+
+<img src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/ed4e16586a98c58ed15d34736c78cbbb313d57be.svg" width="80" height="80" alt="Wand icon with sparkles" loading="lazy" fetchpriority="auto"/>
+</picture>
+</div>
+<div class="_text_ybz6b_85">
+<h3 class="_title_ybz6b_102 _size:headline-5_l91ox_240" data-inview-effect="fade-up" data-inview-stagger="1">Enhance your photos, easily find the pics you’re looking for, and automatically organize them — all with the power of Google AI.</h3>
+</div>
+</div><button aria-label="Close" class="_flipButton_1q1ry_94 _closeButton_1q1ry_182" data-close-button="true" tabindex="0"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12.6569 1.34313L1.34315 12.6568M1.34315 1.34313L12.6569 12.6568" stroke="#185ABC" stroke-width="2.57143"></path>
+</svg></button>
+</div>
+</div>
+</photos-reversible-tile></div>
+</div>
+</div>
+</div>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:24px;--spacer-height--md:24px;--spacer-height--sm:24px;"></div>
+<div id="download-iphone" class="_module_sfqb7_131 _android:display-none_sfqb7_200 inview _container_1jejk_75">
+<div class="_content_sfqb7_131">
+<div class="_tiles_sfqb7_121">
+<div class="_tile_1bbty_75 _tile_sfqb7_121 type:DownloadAppTile _bg:white_1bbty_99 inview">
+<div class="_layout_1bbty_106">
+<div class="_content_1bbty_113">
+<h2 class="_title_1bbty_135 _size:headline-3_l91ox_188" data-inview-effect="fade-up" data-inview-stagger="0">Got an iPhone<sup>®</sup>?<sup class="footnoteButton"><a aria-label="Show footnote 3" href="photos/about">3</a></sup>
+We’ve got you covered.</h2>
+<div class="_body_1bbty_138 _size:body_l91ox_297" data-inview-effect="fade-up" data-inview-stagger="1">
+<p>Google Photos works for you. You can sync your library and favorites during setup and your photos will automatically upload to the app.</p>
+</div>
+</div>
+<div class="_badges_1bbty_142" data-inview-effect="fade-up" data-inview-stagger="2">
+<div><a href="https://photos.google.com/link/create">
+<picture>
+<source srcset="https://lh3.googleusercontent.com/lxsXDCeIX7iYaMIzxmJ8ttfE3TRNeCCNbB9TUWT0W0D9R4JlhemtyWUg0zDR69NCVWDvVMVd9uZ-hDHExoqfTxZnIlQrx1p7mGSr-g=e365-pa-nu-w400 2x, https://lh3.googleusercontent.com/lxsXDCeIX7iYaMIzxmJ8ttfE3TRNeCCNbB9TUWT0W0D9R4JlhemtyWUg0zDR69NCVWDvVMVd9uZ-hDHExoqfTxZnIlQrx1p7mGSr-g=e365-pa-nu-w200"/>
+
+<img src="https://lh3.googleusercontent.com/lxsXDCeIX7iYaMIzxmJ8ttfE3TRNeCCNbB9TUWT0W0D9R4JlhemtyWUg0zDR69NCVWDvVMVd9uZ-hDHExoqfTxZnIlQrx1p7mGSr-g=e365-pa-nu-s0" width="200" height="200" alt="Download on the App Store" loading="lazy" fetchpriority="auto"/>
+</picture>
+</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:112px;--spacer-height--md:88px;--spacer-height--sm:48px;"></div>
+<section id="search" aria-label="Search made simple">
+<div class="_module_1g8eg_74 inview _container_1jejk_75">
+<div class="_textContainer_1g8eg_83">
+<h2 class="_title_1g8eg_131 _size:headline-2_l91ox_162" data-inview-effect="fade-up" data-inview-stagger="0">Search made simple</h2>
+</div>
+</div>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:40px;--spacer-height--md:40px;--spacer-height--sm:40px;"></div>
+</section>
+<div id="search-carousel" class="_module_9i05r_74 _subtle-transition_9i05r_483 _container_1jejk_75">
+<div><photos-search-carousel>
+<div class="_slides_9i05r_83"><photos-search-carousel-slide slideindex="0" class="_slide_9i05r_83" typingspeed="50">
+<div class="_textContent_9i05r_132">
+<h3 class="_title_9i05r_159 _size:headline-3_l91ox_188"><span data-title="true">Easily search
+<br/>
+your memories
+<span>with natural language<sup class="footnoteButton"><a aria-label="Show footnote 4" href="photos/about">4</a></sup></span></span></h3>
+<div class="_searchTermContainer_9i05r_197"><svg class="_searchIcon_9i05r_233" width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.9133 14.4362L23.667 22.1899L21.6508 24.2061L13.8971 16.4524C12.4492 17.4943 10.7036 18.1303 8.79564 18.1303C3.93774 18.1303 0 14.1926 0 9.3347C0 4.4768 3.93774 0.539062 8.79564 0.539062C13.6535 0.539062 17.5913 4.4768 17.5913 9.3347C17.5913 11.2427 16.9553 12.9883 15.9133 14.4362ZM8.79564 3.24541C5.42623 3.24541 2.70635 5.96529 2.70635 9.3347C2.70635 12.7041 5.42623 15.424 8.79564 15.424C12.165 15.424 14.8849 12.7041 14.8849 9.3347C14.8849 5.96529 12.165 3.24541 8.79564 3.24541Z" fill="#5F6368"></path>
+</svg>
+<p class="_size:placement-specific-search-term_l91ox_324"><span data-search-term="true">Alice and me smiling</span></p>
+</div>
+</div>
+<div><video class="_video_9i05r_244 _videoDesktop_9i05r_256" playsinline="" muted="" data-video="true" style="--video-aspect-ratio:1296 / 1058;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/f867f71733fc0e10bd41b3a01f11a9a662549c17.mp4" type="video/mp4"/>
+</video><video class="_video_9i05r_244 _videoTablet_9i05r_268" playsinline="" muted="" data-video="true" style="--video-aspect-ratio:1052 / 858;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/9525bbc01720b6ee510b55633e5a4dd5c247e850.mp4" type="video/mp4"/>
+</video><video class="_video_9i05r_244 _videoMobile_9i05r_279" playsinline="" muted="" data-video="true" style="--video-aspect-ratio:640 / 640;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/2162c8db019817603d1863af36e9df43d86119a6.mp4" type="video/mp4"/>
+</video></div>
+</photos-search-carousel-slide><photos-search-carousel-slide slideindex="1" class="_slide_9i05r_83" typingspeed="50">
+<div class="_textContent_9i05r_132">
+<h3 class="_title_9i05r_159 _size:headline-3_l91ox_188"><span data-title="true">Easily search
+<br/>
+your memories
+<span>for people &amp; pets</span></span></h3>
+<div class="_searchTermContainer_9i05r_197"><svg class="_searchIcon_9i05r_233" width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.9133 14.4362L23.667 22.1899L21.6508 24.2061L13.8971 16.4524C12.4492 17.4943 10.7036 18.1303 8.79564 18.1303C3.93774 18.1303 0 14.1926 0 9.3347C0 4.4768 3.93774 0.539062 8.79564 0.539062C13.6535 0.539062 17.5913 4.4768 17.5913 9.3347C17.5913 11.2427 16.9553 12.9883 15.9133 14.4362ZM8.79564 3.24541C5.42623 3.24541 2.70635 5.96529 2.70635 9.3347C2.70635 12.7041 5.42623 15.424 8.79564 15.424C12.165 15.424 14.8849 12.7041 14.8849 9.3347C14.8849 5.96529 12.165 3.24541 8.79564 3.24541Z" fill="#5F6368"></path>
+</svg>
+<p class="_size:placement-specific-search-term_l91ox_324"><span data-search-term="true">Lindsay</span></p>
+</div>
+</div>
+<div><video class="_video_9i05r_244 _videoDesktop_9i05r_256" playsinline="" muted="" data-video="true" style="--video-aspect-ratio:1/1;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/6e6cfd562d915741c3575823a8f6360aed322806.compressed.mp4" type="video/mp4"/>
+</video><video class="_video_9i05r_244 _videoTablet_9i05r_268" playsinline="" muted="" data-video="true" style="--video-aspect-ratio:1/1;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/ede1136a19ab834819dca7e91700291229e00574.compressed.mp4" type="video/mp4"/>
+</video><video class="_video_9i05r_244 _videoMobile_9i05r_279" playsinline="" muted="" data-video="true" style="--video-aspect-ratio:1/1;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/45355ea9dbd9084481793254656a5db66692480f.compressed.mp4" type="video/mp4"/>
+</video></div>
+</photos-search-carousel-slide><photos-search-carousel-slide slideindex="2" class="_slide_9i05r_83" typingspeed="50">
+<div class="_textContent_9i05r_132">
+<h3 class="_title_9i05r_159 _size:headline-3_l91ox_188"><span data-title="true">Easily search
+<br/>
+your memories
+<span>for places</span></span></h3>
+<div class="_searchTermContainer_9i05r_197"><svg class="_searchIcon_9i05r_233" width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.9133 14.4362L23.667 22.1899L21.6508 24.2061L13.8971 16.4524C12.4492 17.4943 10.7036 18.1303 8.79564 18.1303C3.93774 18.1303 0 14.1926 0 9.3347C0 4.4768 3.93774 0.539062 8.79564 0.539062C13.6535 0.539062 17.5913 4.4768 17.5913 9.3347C17.5913 11.2427 16.9553 12.9883 15.9133 14.4362ZM8.79564 3.24541C5.42623 3.24541 2.70635 5.96529 2.70635 9.3347C2.70635 12.7041 5.42623 15.424 8.79564 15.424C12.165 15.424 14.8849 12.7041 14.8849 9.3347C14.8849 5.96529 12.165 3.24541 8.79564 3.24541Z" fill="#5F6368"></path>
+</svg>
+<p class="_size:placement-specific-search-term_l91ox_324"><span data-search-term="true">San Francisco</span></p>
+</div>
+</div>
+<div><video class="_video_9i05r_244 _videoDesktop_9i05r_256" playsinline="" muted="" data-video="true" style="--video-aspect-ratio:1/1;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/cf36e0a23ad3f87802f5db71fbc29fddd1fd4e01.compressed.mp4" type="video/mp4"/>
+</video><video class="_video_9i05r_244 _videoTablet_9i05r_268" playsinline="" muted="" data-video="true" style="--video-aspect-ratio:1/1;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/0758248307a0276deb68242f65396ff25edb96e1.compressed.mp4" type="video/mp4"/>
+</video><video class="_video_9i05r_244 _videoMobile_9i05r_279" playsinline="" muted="" data-video="true" style="--video-aspect-ratio:1/1;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/7eedf11976da53bb12a17e93e85216cc5159bb7c.compressed.mp4" type="video/mp4"/>
+</video></div>
+</photos-search-carousel-slide><photos-search-carousel-slide slideindex="3" class="_slide_9i05r_83" typingspeed="50">
+<div class="_textContent_9i05r_132">
+<h3 class="_title_9i05r_159 _size:headline-3_l91ox_188"><span data-title="true">Easily search
+<br/>
+your memories
+<span>for things</span></span></h3>
+<div class="_searchTermContainer_9i05r_197"><svg class="_searchIcon_9i05r_233" width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.9133 14.4362L23.667 22.1899L21.6508 24.2061L13.8971 16.4524C12.4492 17.4943 10.7036 18.1303 8.79564 18.1303C3.93774 18.1303 0 14.1926 0 9.3347C0 4.4768 3.93774 0.539062 8.79564 0.539062C13.6535 0.539062 17.5913 4.4768 17.5913 9.3347C17.5913 11.2427 16.9553 12.9883 15.9133 14.4362ZM8.79564 3.24541C5.42623 3.24541 2.70635 5.96529 2.70635 9.3347C2.70635 12.7041 5.42623 15.424 8.79564 15.424C12.165 15.424 14.8849 12.7041 14.8849 9.3347C14.8849 5.96529 12.165 3.24541 8.79564 3.24541Z" fill="#5F6368"></path>
+</svg>
+<p class="_size:placement-specific-search-term_l91ox_324"><span data-search-term="true">🍕</span></p>
+</div>
+</div>
+<div><video class="_video_9i05r_244 _videoDesktop_9i05r_256" playsinline="" muted="" data-video="true" style="--video-aspect-ratio:1/1;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/b48a5b9bd058e37ecc876b1741a4ca514ac46c23.compressed.mp4" type="video/mp4"/>
+</video><video class="_video_9i05r_244 _videoTablet_9i05r_268" playsinline="" muted="" data-video="true" style="--video-aspect-ratio:1/1;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/6b8393e6c778cf083c87b5d44d6321cae2f0091e.compressed.mp4" type="video/mp4"/>
+</video><video class="_video_9i05r_244 _videoMobile_9i05r_279" playsinline="" muted="" data-video="true" style="--video-aspect-ratio:1/1;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/4835614907b167c4e7fbe8dcab945b3d17a0e7f4.compressed.mp4" type="video/mp4"/>
+</video></div>
+</photos-search-carousel-slide>
+<div class="_playPause_9i05r_284"><button tabindex="0" class="_playPauseButton_9i05r_300" aria-label="Play" data-play-button="true" inert=""><svg width="10" height="15" viewBox="0 0 10 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 7.5L0 0V15L10 7.5Z" fill="currentColor"></path>
+</svg></button><button tabindex="0" class="_playPauseButton_9i05r_300" aria-label="Pause" data-pause-button="true" active=""><svg width="12" height="15" viewBox="0 0 12 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="4" height="15" fill="currentColor"></rect>
+<rect x="8" width="4" height="15" fill="currentColor"></rect>
+</svg></button></div>
+</div>
+<div class="_controls_9i05r_341">
+<div class="_dots_9i05r_410"><button class="_dot_9i05r_410" aria-label="Go to slide 1" data-dot="true" data-dot-index="0"></button><button class="_dot_9i05r_410" aria-label="Go to slide 2" data-dot="true" data-dot-index="1"></button><button class="_dot_9i05r_410" aria-label="Go to slide 3" data-dot="true" data-dot-index="2"></button><button class="_dot_9i05r_410" aria-label="Go to slide 4" data-dot="true" data-dot-index="3"></button></div>
+<div class="_arrows_9i05r_361"><button class="_arrow_9i05r_361" aria-label="Go to Previous Slide" data-prev-button="true"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M16 7.55566L3.83 7.55566L9.42 1.96566L8 0.555664L0 8.55566L8 16.5557L9.41 15.1457L3.83 9.55566L16 9.55566V7.55566Z" fill="currentColor"></path>
+</svg></button><button class="_arrow_9i05r_361" aria-label="Go to Next Slide" data-next-button="true"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.11959e-07 9.55566L12.17 9.55566L6.58 15.1457L8 16.5557L16 8.55566L8 0.555663L6.59 1.96566L12.17 7.55566L7.86805e-07 7.55566L6.11959e-07 9.55566Z" fill="currentColor"></path>
+</svg></button></div>
+</div>
+</photos-search-carousel></div>
+</div>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:112px;--spacer-height--md:88px;--spacer-height--sm:48px;"></div>
+<section id="edit" aria-label="Photos enhanced with Google AI">
+<div class="_module_1g8eg_74 inview _smaller-mobile-icon_1g8eg_154 _container_1jejk_75">
+<picture class="_icon_1g8eg_98">
+
+<img data-inview-effect="fade-up" data-inview-stagger="0" src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/29ac3e0a49255e976ef8205af256c68f79082a54.svg" width="72" height="73" alt="Wand with sparkles" loading="lazy" fetchpriority="auto"/>
+</picture>
+<div class="_textContainer_1g8eg_83">
+<h2 class="_title_1g8eg_131 _size:headline-2_l91ox_162" data-inview-effect="fade-up" data-inview-stagger="1">Photos enhanced with Google AI</h2>
+</div>
+</div>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:40px;--spacer-height--md:40px;--spacer-height--sm:40px;"></div>
+<div id="reimagine" class="_bg:grey-50_xzcrl_78 _color-heading_xzcrl_127 _layout:mobile-full-bleed_xzcrl_197 _reimagine-radius_xzcrl_223 inview _container_1jejk_75">
+<div class="_layout_xzcrl_90">
+<div class="_asset_xzcrl_110">
+<div class="_assetTile_xzcrl_261">
+<div class="_video_d7i1r_75"><photos-responsive-video playwheninview="" loop=""><video class="_video_1k4w2_75 _breakpoint:desktop_1k4w2_109" preload="none" muted="" playsinline="" disablepictureinpicture="" disableremoteplayback="" loop="" aria-label="An animation of the Reimagine feature changing a sunset to a clear blue sky." style="aspect-ratio:676/598;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/f0b60af5dcd062992430719f4104f04dff7cd112.mp4" type="video/mp4"/>
+</video><video class="_video_1k4w2_75 _breakpoint:tablet_1k4w2_89" preload="none" muted="" playsinline="" disablepictureinpicture="" disableremoteplayback="" loop="" aria-label="An animation of the Reimagine feature changing a sunset to a clear blue sky." style="aspect-ratio:676/598;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/f0b60af5dcd062992430719f4104f04dff7cd112.mp4" type="video/mp4"/>
+</video><video class="_video_1k4w2_75 _breakpoint:mobile_1k4w2_84" preload="none" muted="" playsinline="" disablepictureinpicture="" disableremoteplayback="" loop="" aria-label="An animation of the Reimagine feature changing a sunset to a clear blue sky." style="aspect-ratio:676/598;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/f0b60af5dcd062992430719f4104f04dff7cd112.mp4" type="video/mp4"/>
+</video><button class="_toggleButton_10ywg_75" data-slot="toggle-button" aria-pressed="false" aria-label="Play video"><svg class="_playIcon_10ywg_111" width="10" height="15" viewBox="0 0 10 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 7.5L0 0V15L10 7.5Z" fill="currentColor"></path>
+</svg><svg class="_pauseIcon_10ywg_112" width="12" height="15" viewBox="0 0 12 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="4" height="15" fill="currentColor"></rect>
+<rect x="8" width="4" height="15" fill="currentColor"></rect>
+</svg><svg class="_replayIcon_10ywg_113" width="16" height="18" viewBox="0 0 16 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.12812 17.1275C7.11875 17.1275 6.16842 16.9336 5.27713 16.5458C4.38583 16.158 3.61021 15.6341 2.95025 14.9742C2.29029 14.3142 1.76641 13.5386 1.37859 12.6473C0.990781 11.756 0.796875 10.8057 0.796875 9.79629H2.74922C2.74922 11.2705 3.27715 12.5355 4.33301 13.5914C5.38887 14.6473 6.65391 15.1752 8.12812 15.1752C9.60234 15.1752 10.8674 14.6473 11.9232 13.5914C12.9791 12.5355 13.507 11.2705 13.507 9.79629C13.507 8.32207 12.9791 7.05703 11.9232 6.00117C10.8674 4.94531 9.59975 4.41738 8.12036 4.41738H8.12812L9.1043 5.39356L7.72969 6.80801L4.38281 3.46113L7.72969 0.114258L9.1043 1.48887L8.1082 2.46504H8.12812C9.1375 2.46504 10.0878 2.65895 10.9791 3.04676C11.8704 3.43457 12.646 3.95846 13.306 4.61841C13.966 5.27837 14.4898 6.054 14.8777 6.94529C15.2655 7.83658 15.4594 8.78691 15.4594 9.79629C15.4594 10.8057 15.2655 11.756 14.8777 12.6473C14.4898 13.5386 13.966 14.3142 13.306 14.9742C12.646 15.6341 11.8704 16.158 10.9791 16.5458C10.0878 16.9336 9.1375 17.1275 8.12812 17.1275Z" fill="currentColor"></path>
+</svg></button></photos-responsive-video></div>
+</div>
+</div>
+<div class="_content_xzcrl_114">
+<div class="_textContentColorHeading_xzcrl_136">
+<h2 class="_title_xzcrl_146 _size:headline-3_l91ox_188" data-inview-effect="fade-up" data-inview-stagger="0">Reimagine.</h2>
+<h3 class="_body_xzcrl_146 _size:headline-3_l91ox_188" data-inview-effect="fade-up" data-inview-stagger="1">
+<div>Bring your creative vision to life.<sup class="footnoteButton"><a aria-label="Show footnote 6" href="photos/about">6</a></sup></div>
+</h3>
+</div>
+<ul class="_buttons_xzcrl_158 _buttonGroup_1shg1_75 _align:start_1shg1_80 _mobileAlign:center_1shg1_92 _firstButtonLowEmphasis_1shg1_98 unstyled" data-inview-effect="fade-up" data-inview-stagger="2">
+<li><a href="photos/editing" aria-label="Explore the Reimagine feature in Google Photos" class="_variant:low-emphasis_ydg7y_89 _rightIcon:arrow_right_ydg7y_95 _button_19jo3_108 _variant:low-emphasis_19jo3_214">
+<div class="_label_19jo3_126">Learn more</div>
+<div class="_rightIcon_19jo3_133"><svg width="7" height="10" viewBox="0 0 7 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1.99988 0.848145L0.942383 1.90564L4.37738 5.34814L0.942383 8.79064L1.99988 9.84814L6.49988 5.34814L1.99988 0.848145Z" fill="currentColor"></path>
+</svg></div>
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:24px;--spacer-height--md:24px;--spacer-height--sm:24px;"></div>
+<div id="magic-eraser" class="_bg:grey-50_xzcrl_78 _layout:asset-left_xzcrl_184 _color-heading_xzcrl_127 _layout:mobile-full-bleed_xzcrl_197 inview _container_1jejk_75">
+<div class="_layout_xzcrl_90">
+<div class="_asset_xzcrl_110">
+<div class="_assetTile_xzcrl_261">
+<div class="_video_d7i1r_75"><photos-responsive-video playwheninview="" loop=""><video class="_video_1k4w2_75 _breakpoint:desktop_1k4w2_109" preload="none" muted="" playsinline="" disablepictureinpicture="" disableremoteplayback="" loop="" aria-label="An animation of the Magic Eraser feature removing items from the background of a photo." style="aspect-ratio:1295/1088;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/2fea8092c352b5acbc9db38a483d438edebf88b0.compressed.mp4" type="video/mp4"/>
+</video><video class="_video_1k4w2_75 _breakpoint:tablet_1k4w2_89" preload="none" muted="" playsinline="" disablepictureinpicture="" disableremoteplayback="" loop="" aria-label="An animation of the Magic Eraser feature removing items from the background of a photo." style="aspect-ratio:1052/880;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/c42c8420340573f8446a4abc1523012ccbc24029.compressed.mp4" type="video/mp4"/>
+</video><video class="_video_1k4w2_75 _breakpoint:mobile_1k4w2_84" preload="none" muted="" playsinline="" disablepictureinpicture="" disableremoteplayback="" loop="" aria-label="An animation of the Magic Eraser feature removing items from the background of a photo." style="aspect-ratio:750/618;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/fd44ad836eccf58aac9b64db2325bc124da04504.compressed.mp4" type="video/mp4"/>
+</video><button class="_toggleButton_10ywg_75" data-slot="toggle-button" aria-pressed="false" aria-label="Play video"><svg class="_playIcon_10ywg_111" width="10" height="15" viewBox="0 0 10 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 7.5L0 0V15L10 7.5Z" fill="currentColor"></path>
+</svg><svg class="_pauseIcon_10ywg_112" width="12" height="15" viewBox="0 0 12 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="4" height="15" fill="currentColor"></rect>
+<rect x="8" width="4" height="15" fill="currentColor"></rect>
+</svg><svg class="_replayIcon_10ywg_113" width="16" height="18" viewBox="0 0 16 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.12812 17.1275C7.11875 17.1275 6.16842 16.9336 5.27713 16.5458C4.38583 16.158 3.61021 15.6341 2.95025 14.9742C2.29029 14.3142 1.76641 13.5386 1.37859 12.6473C0.990781 11.756 0.796875 10.8057 0.796875 9.79629H2.74922C2.74922 11.2705 3.27715 12.5355 4.33301 13.5914C5.38887 14.6473 6.65391 15.1752 8.12812 15.1752C9.60234 15.1752 10.8674 14.6473 11.9232 13.5914C12.9791 12.5355 13.507 11.2705 13.507 9.79629C13.507 8.32207 12.9791 7.05703 11.9232 6.00117C10.8674 4.94531 9.59975 4.41738 8.12036 4.41738H8.12812L9.1043 5.39356L7.72969 6.80801L4.38281 3.46113L7.72969 0.114258L9.1043 1.48887L8.1082 2.46504H8.12812C9.1375 2.46504 10.0878 2.65895 10.9791 3.04676C11.8704 3.43457 12.646 3.95846 13.306 4.61841C13.966 5.27837 14.4898 6.054 14.8777 6.94529C15.2655 7.83658 15.4594 8.78691 15.4594 9.79629C15.4594 10.8057 15.2655 11.756 14.8777 12.6473C14.4898 13.5386 13.966 14.3142 13.306 14.9742C12.646 15.6341 11.8704 16.158 10.9791 16.5458C10.0878 16.9336 9.1375 17.1275 8.12812 17.1275Z" fill="currentColor"></path>
+</svg></button></photos-responsive-video></div>
+</div>
+</div>
+<div class="_content_xzcrl_114">
+<div class="_textContentColorHeading_xzcrl_136">
+<h2 class="_title_xzcrl_146 _size:headline-3_l91ox_188" data-inview-effect="fade-up" data-inview-stagger="0">Magic Eraser.</h2>
+<h3 class="_body_xzcrl_146 _size:headline-3_l91ox_188" data-inview-effect="fade-up" data-inview-stagger="1">
+<div>Distractions are a distant memory.</div>
+</h3>
+</div>
+<ul class="_buttons_xzcrl_158 _buttonGroup_1shg1_75 _align:start_1shg1_80 _mobileAlign:center_1shg1_92 _firstButtonLowEmphasis_1shg1_98 unstyled" data-inview-effect="fade-up" data-inview-stagger="2">
+<li><a href="photos/editing" aria-label="Explore the Magic Eraser feature in Google Photos" class="_variant:low-emphasis_ydg7y_89 _rightIcon:arrow_right_ydg7y_95 _button_19jo3_108 _variant:low-emphasis_19jo3_214">
+<div class="_label_19jo3_126">Learn more</div>
+<div class="_rightIcon_19jo3_133"><svg width="7" height="10" viewBox="0 0 7 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1.99988 0.848145L0.942383 1.90564L4.37738 5.34814L0.942383 8.79064L1.99988 9.84814L6.49988 5.34814L1.99988 0.848145Z" fill="currentColor"></path>
+</svg></div>
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:24px;--spacer-height--md:24px;--spacer-height--sm:24px;"></div>
+<div id="photo-unblur" class="_bg:grey-50_xzcrl_78 _color-heading_xzcrl_127 _layout:mobile-full-bleed_xzcrl_197 inview _container_1jejk_75">
+<div class="_layout_xzcrl_90">
+<div class="_asset_xzcrl_110">
+<div class="_assetTile_xzcrl_261 _module_ckciv_120 _container_1jejk_75" style="--compare-images-tile-aspect-desktop:1296/1088;--compare-images-tile-aspect-tablet:1052/880;--compare-images-tile-aspect-mobile:750/618;">
+<div class="_imagesContainer_ckciv_126"><photos-image-comparison scrubstartpositionpercentage="58" leftimagedesktop="https://lh3.googleusercontent.com/PzUXyCnVrhthJxRoNqwi9hSv5XhSHLIqybLWulPSkeQvlwQboC_7ogQZhNBItMvUyeRevVqu912EZEbyznxNoUe3V6ZO5ETYeq6sjw=e365-pa-nu-s0-rw" leftimagetablet="https://lh3.googleusercontent.com/Za-ribA-1b5tAPKOxfKf3-rIIKy-q6jwDg8n3jovuq5pZlbPHe-f2Q880RrnVhhXs-5wKFHpefSU7rpEvlOOfjWIn7_u1hqsMvxyXA=e365-pa-nu-s0-rw" leftimagemobile="https://lh3.googleusercontent.com/4n-gEpFqRGvn4vj0mn4k8PLniYw1EV43CkNO8Oxt5OmhfEAKN8W7nA2QsZ_vU6NShT6ZPVg6D45M2oYdqzlVJqZ4BQ89hSGbQI4=e365-pa-nu-s0-rw" rightimagedesktop="https://lh3.googleusercontent.com/jVCnT1_KF13qADoq-_cX9meuwptM0V2VzHyQ1nXlad5K16caVCNU-86jixaczXMxj0IkkPeGsztbGRt6YM_l4I4ix6MV6FOwybY=e365-pa-nu-s0-rw" rightimagetablet="https://lh3.googleusercontent.com/IEbcs0u1tdi-PwOBF6Fty4STMuY0tR8EBBB-8lwnkLqfyWhOo__ujYJ7ygPIjm273S0exmcj2nxTJK6MKflvCzTO6bPo2KJOLWsMqA=e365-pa-nu-s0-rw" rightimagemobile="https://lh3.googleusercontent.com/Ju3StYqYUDEi-1fcmTBfWFeh1MDMmDjiXWwuUgJamcwKF_kS4GBryWwNlECEzGNrcAF6DlTMxK3zlF0oD_dWFH9R2mXl1q8c7JU8=e365-pa-nu-s0-rw"></photos-image-comparison></div>
+</div>
+</div>
+<div class="_content_xzcrl_114">
+<div class="_textContentColorHeading_xzcrl_136">
+<h2 class="_title_xzcrl_146 _size:headline-3_l91ox_188" data-inview-effect="fade-up" data-inview-stagger="0">Photo Unblur.</h2>
+<h3 class="_body_xzcrl_146 _size:headline-3_l91ox_188" data-inview-effect="fade-up" data-inview-stagger="1">
+<div>Go from blurry to breathtaking.</div>
+</h3>
+</div>
+<ul class="_buttons_xzcrl_158 _buttonGroup_1shg1_75 _align:start_1shg1_80 _mobileAlign:center_1shg1_92 _firstButtonLowEmphasis_1shg1_98 unstyled" data-inview-effect="fade-up" data-inview-stagger="2">
+<li><a href="photos/editing" aria-label="Explore the Photo Unblur feature in Google Photos" class="_variant:low-emphasis_ydg7y_89 _rightIcon:arrow_right_ydg7y_95 _button_19jo3_108 _variant:low-emphasis_19jo3_214">
+<div class="_label_19jo3_126">Learn more</div>
+<div class="_rightIcon_19jo3_133"><svg width="7" height="10" viewBox="0 0 7 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1.99988 0.848145L0.942383 1.90564L4.37738 5.34814L0.942383 8.79064L1.99988 9.84814L6.49988 5.34814L1.99988 0.848145Z" fill="currentColor"></path>
+</svg></div>
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:80px;--spacer-height--md:80px;--spacer-height--sm:72px;"></div>
+<div class="_module_1llsc_74 _container_1jejk_75"><a href="photos/editing/index.html" aria-label="Explore all Google Photos editing features" class="_variant:medium-emphasis_ydg7y_83 _button_19jo3_108 _variant:medium-emphasis_19jo3_179">
+<div class="_label_19jo3_126">See all editing features</div>
+</a></div>
+</section>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:96px;--spacer-height--md:96px;--spacer-height--sm:96px;"></div>
+<section id="organize" class="_bg_1c7tv_75 _bg:green-50_1c7tv_78 _container_1jejk_75">
+<div class="_modules_1c7tv_93">
+<div class="_module_1g8eg_74 inview _container_1jejk_75">
+<div class="_textContainer_1g8eg_83">
+<h2 class="_title_1g8eg_131 _size:headline-2_l91ox_162" data-inview-effect="fade-up" data-inview-stagger="0">Stroll down memory lane</h2>
+<div class="_body_1g8eg_138 _size:body-large_l91ox_297" data-inview-effect="fade-up" data-inview-stagger="1">
+<p>Easily revisit your favorite memories. With machine learning, your top shots are curated for you so you can share them with the people who made those moments special.</p>
+</div>
+</div>
+</div>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:56px;--spacer-height--md:56px;--spacer-height--sm:56px;"></div>
+<div id="organized-video" class="_module_sfqb7_131 inview _container_1jejk_75">
+<div class="_content_sfqb7_131">
+<div class="_tiles_sfqb7_121">
+<div class="_tile_sfqb7_121 type:VideoTile">
+<div class="_video_d7i1r_75"><photos-responsive-video playwheninview="" loop=""><video class="_video_1k4w2_75 _breakpoint:desktop_1k4w2_109" preload="none" muted="" playsinline="" disablepictureinpicture="" disableremoteplayback="" loop="" aria-label="An animation of the Memories View feature showcasing a trip to Trinity Alps. " poster="https://lh3.googleusercontent.com/PSAKn6U2skuPkdm7KpR4_YCBuyZF8_ohbT4E8k45Xev34Dd79wG12bGaO7chY_wBZCvZeRXi7S5ecQFHhzXiGIgOkihFloT2mvvP=e365-pa-nu-w1440-rw" style="aspect-ratio:2392/1320;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/976ae5d8da793f5f4a59bc48590151e0ea4318cc.compressed.mp4" type="video/mp4"/>
+</video><video class="_video_1k4w2_75 _breakpoint:tablet_1k4w2_89" preload="none" muted="" playsinline="" disablepictureinpicture="" disableremoteplayback="" loop="" aria-label="An animation of the Memories View feature showcasing a trip to Trinity Alps. " poster="https://lh3.googleusercontent.com/jHxXOZ1gPNVrLdrBPrCT0AFSHrvL2goBPkmcR304aq9Tp3tN4ZLaM1ctSUOwHkruLa6m28_70YPUZVPPFzf694xiGdz2eHkD3ja7=e365-pa-nu-w1440-rw" style="aspect-ratio:896/1254;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/6c053f94132b8856eb2cc0ba0f2e0de7c3791958.compressed.mp4" type="video/mp4"/>
+</video><video class="_video_1k4w2_75 _breakpoint:mobile_1k4w2_84" preload="none" muted="" playsinline="" disablepictureinpicture="" disableremoteplayback="" loop="" aria-label="An animation of the Memories View feature showcasing a trip to Trinity Alps. " poster="https://lh3.googleusercontent.com/GN8CvUtnOvRk_1fX_Lq-cNIUPqvwZmXBuB5lXcN-cqjoBMT3-Y1VuJovcwWD2FFFfniehvjuS9s7Lx9ZVw0Z86E4v7dH4rIsZp07kg=e365-pa-nu-w1440-rw" style="aspect-ratio:640/808;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/b9b352fd791ddc3ae06b5624c488688060ed2291.compressed.mp4" type="video/mp4"/>
+</video><button class="_toggleButton_10ywg_75" data-slot="toggle-button" aria-pressed="false" aria-label="Play video"><svg class="_playIcon_10ywg_111" width="10" height="15" viewBox="0 0 10 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 7.5L0 0V15L10 7.5Z" fill="currentColor"></path>
+</svg><svg class="_pauseIcon_10ywg_112" width="12" height="15" viewBox="0 0 12 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="4" height="15" fill="currentColor"></rect>
+<rect x="8" width="4" height="15" fill="currentColor"></rect>
+</svg><svg class="_replayIcon_10ywg_113" width="16" height="18" viewBox="0 0 16 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.12812 17.1275C7.11875 17.1275 6.16842 16.9336 5.27713 16.5458C4.38583 16.158 3.61021 15.6341 2.95025 14.9742C2.29029 14.3142 1.76641 13.5386 1.37859 12.6473C0.990781 11.756 0.796875 10.8057 0.796875 9.79629H2.74922C2.74922 11.2705 3.27715 12.5355 4.33301 13.5914C5.38887 14.6473 6.65391 15.1752 8.12812 15.1752C9.60234 15.1752 10.8674 14.6473 11.9232 13.5914C12.9791 12.5355 13.507 11.2705 13.507 9.79629C13.507 8.32207 12.9791 7.05703 11.9232 6.00117C10.8674 4.94531 9.59975 4.41738 8.12036 4.41738H8.12812L9.1043 5.39356L7.72969 6.80801L4.38281 3.46113L7.72969 0.114258L9.1043 1.48887L8.1082 2.46504H8.12812C9.1375 2.46504 10.0878 2.65895 10.9791 3.04676C11.8704 3.43457 12.646 3.95846 13.306 4.61841C13.966 5.27837 14.4898 6.054 14.8777 6.94529C15.2655 7.83658 15.4594 8.78691 15.4594 9.79629C15.4594 10.8057 15.2655 11.756 14.8777 12.6473C14.4898 13.5386 13.966 14.3142 13.306 14.9742C12.646 15.6341 11.8704 16.158 10.9791 16.5458C10.0878 16.9336 9.1375 17.1275 8.12812 17.1275Z" fill="currentColor"></path>
+</svg></button></photos-responsive-video></div>
+</div>
+</div>
+</div>
+</div>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:104px;--spacer-height--md:104px;--spacer-height--sm:104px;"></div>
+<div class="_module_1g8eg_74 inview _container_1jejk_75">
+<div class="_textContainer_1g8eg_83">
+<h2 class="_title_1g8eg_131 _size:headline-2_l91ox_162" data-inview-effect="fade-up" data-inview-stagger="0">Organized with the help of AI</h2>
+<div class="_body_1g8eg_138 _size:body-large_l91ox_297" data-inview-effect="fade-up" data-inview-stagger="1">
+<p>Your photos and documents are automatically organized, so you can spend more time enjoying your memories and less time arranging them.</p>
+</div>
+</div>
+</div>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:56px;--spacer-height--md:56px;--spacer-height--sm:56px;"></div>
+<div id="organized-tiles" class="_module_sfqb7_131 inview _container_1jejk_75">
+<div class="_content_sfqb7_131">
+<div class="_tiles_sfqb7_121">
+<div class="_tile_sfqb7_121 type:ImageTile _module_1yzzb_74">
+<div class="_imageContainer_1yzzb_79">
+<picture class="_image_1yzzb_79">
+<source srcset="https://lh3.googleusercontent.com/QN8QmSSyBwGYQYGqBeJ-rSZoGfJVqiIUe2lzG5raCRj78t88kvuw6GXFSMwyeQiyZa1hHtJnEb_OeIMH9eTkYh4AhmjoJnxGE4smPA=e365-pa-nu-w2592 2x, https://lh3.googleusercontent.com/QN8QmSSyBwGYQYGqBeJ-rSZoGfJVqiIUe2lzG5raCRj78t88kvuw6GXFSMwyeQiyZa1hHtJnEb_OeIMH9eTkYh4AhmjoJnxGE4smPA=e365-pa-nu-w1296"/>
+
+<img src="https://lh3.googleusercontent.com/QN8QmSSyBwGYQYGqBeJ-rSZoGfJVqiIUe2lzG5raCRj78t88kvuw6GXFSMwyeQiyZa1hHtJnEb_OeIMH9eTkYh4AhmjoJnxGE4smPA=e365-pa-nu-s0" width="1168" height="1000" alt="Photo Stacks feature indicating 3 photos are stacked." loading="lazy" fetchpriority="auto"/>
+</picture>
+<picture class="_imageTablet_1yzzb_92">
+<source srcset="https://lh3.googleusercontent.com/BIW54x17LpLCaQmwXNUNOCzhRYBS7jQjgNbGT6ABlIxJsA4RRuojBm4y7iW-n4LYeaTAKk5ftfdieQL2iCU0SuOH2R_MHaWl3bnz_w=e365-pa-nu-w1052 2x, https://lh3.googleusercontent.com/BIW54x17LpLCaQmwXNUNOCzhRYBS7jQjgNbGT6ABlIxJsA4RRuojBm4y7iW-n4LYeaTAKk5ftfdieQL2iCU0SuOH2R_MHaWl3bnz_w=e365-pa-nu-w526"/>
+
+<img src="https://lh3.googleusercontent.com/BIW54x17LpLCaQmwXNUNOCzhRYBS7jQjgNbGT6ABlIxJsA4RRuojBm4y7iW-n4LYeaTAKk5ftfdieQL2iCU0SuOH2R_MHaWl3bnz_w=e365-pa-nu-s0" width="890" height="910" alt="Photo Stacks feature indicating 3 photos are stacked." loading="lazy" fetchpriority="auto"/>
+</picture>
+<picture class="_imageMobile_1yzzb_93">
+<source srcset="https://lh3.googleusercontent.com/7BR1vvvQSnzGibLkyR89xVw9SKyQQsfQkQq9JcwqVVzgYydnUSNeAiIUYLCqS0e5jBXMPM8u-3CAo2xzUie-vKRx2g7H86OgKIGJ=e365-pa-nu-w1052 2x, https://lh3.googleusercontent.com/7BR1vvvQSnzGibLkyR89xVw9SKyQQsfQkQq9JcwqVVzgYydnUSNeAiIUYLCqS0e5jBXMPM8u-3CAo2xzUie-vKRx2g7H86OgKIGJ=e365-pa-nu-w526"/>
+
+<img src="https://lh3.googleusercontent.com/7BR1vvvQSnzGibLkyR89xVw9SKyQQsfQkQq9JcwqVVzgYydnUSNeAiIUYLCqS0e5jBXMPM8u-3CAo2xzUie-vKRx2g7H86OgKIGJ=e365-pa-nu-s0" width="640" height="734" alt="Photo Stacks feature indicating 3 photos are stacked." loading="lazy" fetchpriority="auto"/>
+</picture>
+</div>
+<p class="_title_1yzzb_128 _size:headline-6_l91ox_264" data-inview-effect="fade-up" data-inview-stagger="0">Automatically group similar photos together with Photo Stacks.</p>
+</div>
+<div class="_tile_sfqb7_121 _tile:index-1_sfqb7_204 type:ImageTile _module_1yzzb_74">
+<div class="_imageContainer_1yzzb_79">
+<picture class="_image_1yzzb_79">
+<source srcset="https://lh3.googleusercontent.com/a4wdmxTB2jUCZkbc9QDBYotpGM5ZqtqHvQXv3pv3hNFH-VzCYPBazpf12GcsVzFp-KgJoI3d0uFWxwxvqyP2YME0Q60W3teDzJ9n=e365-pa-nu-w2592 2x, https://lh3.googleusercontent.com/a4wdmxTB2jUCZkbc9QDBYotpGM5ZqtqHvQXv3pv3hNFH-VzCYPBazpf12GcsVzFp-KgJoI3d0uFWxwxvqyP2YME0Q60W3teDzJ9n=e365-pa-nu-w1296"/>
+
+<img src="https://lh3.googleusercontent.com/a4wdmxTB2jUCZkbc9QDBYotpGM5ZqtqHvQXv3pv3hNFH-VzCYPBazpf12GcsVzFp-KgJoI3d0uFWxwxvqyP2YME0Q60W3teDzJ9n=e365-pa-nu-s0" width="1168" height="1000" alt="Documents tab showing the number of each type of document within the app." loading="lazy" fetchpriority="auto"/>
+</picture>
+<picture class="_imageTablet_1yzzb_92">
+<source srcset="https://lh3.googleusercontent.com/rYpPyH6rdDb5vfL5DYhOXr2kivRWRLTRpq1vGmWZuesPa9Sx6fT6hzdfxNtO34Ol1o46p91ooLhwFtjUZyfw0XnkDLVvIvJ6LJFS=e365-pa-nu-w1052 2x, https://lh3.googleusercontent.com/rYpPyH6rdDb5vfL5DYhOXr2kivRWRLTRpq1vGmWZuesPa9Sx6fT6hzdfxNtO34Ol1o46p91ooLhwFtjUZyfw0XnkDLVvIvJ6LJFS=e365-pa-nu-w526"/>
+
+<img src="https://lh3.googleusercontent.com/rYpPyH6rdDb5vfL5DYhOXr2kivRWRLTRpq1vGmWZuesPa9Sx6fT6hzdfxNtO34Ol1o46p91ooLhwFtjUZyfw0XnkDLVvIvJ6LJFS=e365-pa-nu-s0" width="890" height="890" alt="Documents tab showing the number of each type of document within the app." loading="lazy" fetchpriority="auto"/>
+</picture>
+<picture class="_imageMobile_1yzzb_93">
+<source srcset="https://lh3.googleusercontent.com/y6RiFsWYj66edATeGd822T7SvkkmRO4nzEj4jtejXcTpUi0Sdwq3YMyKyCFQO55I6xqETa2B9g2YczDLuwGh0ZGxFmWebEP1D8TiHQ=e365-pa-nu-w1052 2x, https://lh3.googleusercontent.com/y6RiFsWYj66edATeGd822T7SvkkmRO4nzEj4jtejXcTpUi0Sdwq3YMyKyCFQO55I6xqETa2B9g2YczDLuwGh0ZGxFmWebEP1D8TiHQ=e365-pa-nu-w526"/>
+
+<img src="https://lh3.googleusercontent.com/y6RiFsWYj66edATeGd822T7SvkkmRO4nzEj4jtejXcTpUi0Sdwq3YMyKyCFQO55I6xqETa2B9g2YczDLuwGh0ZGxFmWebEP1D8TiHQ=e365-pa-nu-s0" width="640" height="734" alt="Documents tab showing the number of each type of document within the app." loading="lazy" fetchpriority="auto"/>
+</picture>
+</div>
+<p class="_title_1yzzb_128 _size:headline-6_l91ox_264" data-inview-effect="fade-up" data-inview-stagger="0">Documents are sorted into albums, like screenshots, receipts, notes, and more.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="share" class="_bg_1c7tv_75 _container_1jejk_75">
+<div class="_modules_1c7tv_93">
+<div class="_module_1g8eg_74 inview _horizontal-layout_1g8eg_98 _container_1jejk_75">
+<picture class="_icon_1g8eg_98">
+<source srcset="https://lh3.googleusercontent.com/pKgnKqkMxPOhwylRUTaxoovzrLdJMQe_q2JqPArA8qpoIDtQJCLthAVa85YRlyUY0h3NRXajiMim9A-XX-ptkLbA4yvVtxfkgOwg=e365-pa-nu-w786 2x, https://lh3.googleusercontent.com/pKgnKqkMxPOhwylRUTaxoovzrLdJMQe_q2JqPArA8qpoIDtQJCLthAVa85YRlyUY0h3NRXajiMim9A-XX-ptkLbA4yvVtxfkgOwg=e365-pa-nu-w393"/>
+
+<img data-inview-effect="fade-up" data-inview-stagger="0" src="https://lh3.googleusercontent.com/pKgnKqkMxPOhwylRUTaxoovzrLdJMQe_q2JqPArA8qpoIDtQJCLthAVa85YRlyUY0h3NRXajiMim9A-XX-ptkLbA4yvVtxfkgOwg=e365-pa-nu-s0" width="393" height="382" alt="A couple smiling and hugging for a selfie." loading="lazy" fetchpriority="auto"/>
+</picture>
+<div class="_textContainer_1g8eg_83">
+<h2 class="_title_1g8eg_131 _size:headline-2_l91ox_162" data-inview-effect="fade-up" data-inview-stagger="1">Share every smile</h2>
+<div class="_body_1g8eg_138 _size:headline-6_l91ox_264" data-inview-effect="fade-up" data-inview-stagger="2">
+<p>Easily share photos, videos, and albums with any of your contacts — even if they don&#39;t use Google Photos.</p>
+</div>
+</div>
+</div>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:40px;--spacer-height--md:40px;--spacer-height--sm:40px;"></div>
+<div id="sharing-tiles" class="_module_sfqb7_131 inview _container_1jejk_75">
+<div class="_content_sfqb7_131">
+<div class="_tiles_sfqb7_121">
+<div class="_tile_sfqb7_121 type:CopyGroupTile _module_ybz6b_176 _bg:grey-100_ybz6b_117 _icon-height-88_ybz6b_136 _icon-mobile-height-70_ybz6b_143 _title-mobile-headline-4_ybz6b_148 _container_1jejk_75">
+<div class="_icon_ybz6b_133" data-inview-effect="fade-up" data-inview-stagger="0">
+<picture class="_icon_ybz6b_133">
+<source srcset="https://lh3.googleusercontent.com/k5f7dBfyXaFk5oF65_0TuNXedVREB3x3wPJrKbLwrAMMksiV9ti8CZy-w0q24gfYK0jPivVRDfPEm3WhC3YpaA17BodgH-Oy22ZVmA=e365-pa-nu-w996 2x, https://lh3.googleusercontent.com/k5f7dBfyXaFk5oF65_0TuNXedVREB3x3wPJrKbLwrAMMksiV9ti8CZy-w0q24gfYK0jPivVRDfPEm3WhC3YpaA17BodgH-Oy22ZVmA=e365-pa-nu-w498"/>
+
+<img src="https://lh3.googleusercontent.com/k5f7dBfyXaFk5oF65_0TuNXedVREB3x3wPJrKbLwrAMMksiV9ti8CZy-w0q24gfYK0jPivVRDfPEm3WhC3YpaA17BodgH-Oy22ZVmA=e365-pa-nu-s0" width="498" height="192" alt="Message, photo and copy link icons." loading="lazy" fetchpriority="auto"/>
+</picture>
+</div>
+<div class="_text_ybz6b_85">
+<h3 class="_title_ybz6b_102 _size:headline-5_l91ox_240" data-inview-effect="fade-up" data-inview-stagger="1">Share to everyday apps</h3>
+<div class="_size:body_l91ox_297" data-inview-effect="fade-up" data-inview-stagger="2">
+<p>Share an album or photos with friends on your favorite daily apps like WhatsApp, Snapchat, and more.</p>
+</div>
+</div>
+</div>
+<div class="_tile_sfqb7_121 _tile:index-1_sfqb7_204 type:CopyGroupTile _module_ybz6b_176 _bg:grey-100_ybz6b_117 _icon-height-96_ybz6b_133 _icon-mobile-height-70_ybz6b_143 _title-mobile-headline-4_ybz6b_148 _container_1jejk_75">
+<div class="_icon_ybz6b_133" data-inview-effect="fade-up" data-inview-stagger="0">
+<picture class="_icon_ybz6b_133">
+<source srcset="https://lh3.googleusercontent.com/GdXhRN1ihpp2_-1u8mHz1K8Q3YsAD_sM7_Jk4U81YmYF_8J39lMiStP4cn5qY_jpK-uXDbLwtOXUA8UaoUzp2bzBxln-cM7Zc14=e365-pa-nu-w996 2x, https://lh3.googleusercontent.com/GdXhRN1ihpp2_-1u8mHz1K8Q3YsAD_sM7_Jk4U81YmYF_8J39lMiStP4cn5qY_jpK-uXDbLwtOXUA8UaoUzp2bzBxln-cM7Zc14=e365-pa-nu-w498"/>
+
+<img src="https://lh3.googleusercontent.com/GdXhRN1ihpp2_-1u8mHz1K8Q3YsAD_sM7_Jk4U81YmYF_8J39lMiStP4cn5qY_jpK-uXDbLwtOXUA8UaoUzp2bzBxln-cM7Zc14=e365-pa-nu-s0" width="498" height="192" alt="Icons indicating trusted users within the Google Photos app." loading="lazy" fetchpriority="auto"/>
+</picture>
+</div>
+<div class="_text_ybz6b_85">
+<h3 class="_title_ybz6b_102 _size:headline-5_l91ox_240" data-inview-effect="fade-up" data-inview-stagger="1">Share with a trusted contact</h3>
+<div class="_size:body_l91ox_297" data-inview-effect="fade-up" data-inview-stagger="2">
+<p>Automatically share photos of selected people and pets with a partner or person you trust most.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="safety" class="_bg_1c7tv_75 _bg:blue-50_1c7tv_75 _container_1jejk_75">
+<div class="_modules_1c7tv_93">
+<div class="_module_1g8eg_74 inview _wide_1g8eg_88 _container_1jejk_75">
+<div class="_textContainer_1g8eg_83">
+<h2 class="_title_1g8eg_131 _size:headline-2_l91ox_162" data-inview-effect="fade-up" data-inview-stagger="0">A safe home for your life’s memories</h2>
+</div>
+</div>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:56px;--spacer-height--md:56px;--spacer-height--sm:48px;"></div>
+<div id="security-data" class="_bg:white_xzcrl_75 _layout:asset-left_xzcrl_184 inview _container_1jejk_75">
+<div class="_layout_xzcrl_90">
+<div class="_asset_xzcrl_110">
+<div class="_assetTile_xzcrl_261">
+<div class="_video_d7i1r_75"><photos-responsive-video playwheninview="" loop=""><video class="_video_1k4w2_75 _breakpoint:desktop_1k4w2_109" preload="none" muted="" playsinline="" disablepictureinpicture="" disableremoteplayback="" loop="" aria-label="Video" poster="https://lh3.googleusercontent.com/ZqBz-wfpqRAu1wH1QgFLVA6LxEmG838nyhgbVpw-P-AA_yyOvE1yor9z92YQnXusQ5-w2jqGRKQyi6EHP6Ve-ZL4v-HiCOV_yIQ_=e365-pa-nu-w1440-rw" style="aspect-ratio:1198/872;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/9f7dc686f844b7b1b160404013e2d5d3f76702bb.compressed.mp4" type="video/mp4"/>
+</video><video class="_video_1k4w2_75 _breakpoint:tablet_1k4w2_89" preload="none" muted="" playsinline="" disablepictureinpicture="" disableremoteplayback="" loop="" aria-label="Video" poster="https://lh3.googleusercontent.com/XrVBdf2Hsq-07nflqeBfE872F_FsHDfTqsdNUNf8ng6toIB4i5Res4xtPeUJh8wR1KmtB4FFriNkbnS1yeF12u2coUXLKa11-zuX=e365-pa-nu-w1440-rw" style="aspect-ratio:812/400;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/7ef367182bdd5adb736d59657e77e9fd117df366.compressed.mp4" type="video/mp4"/>
+</video><video class="_video_1k4w2_75 _breakpoint:mobile_1k4w2_84" preload="none" muted="" playsinline="" disablepictureinpicture="" disableremoteplayback="" loop="" aria-label="Video" poster="https://lh3.googleusercontent.com/2HJbzaKjgygijKKgv6XmDtCCQ84DG0JOO6Fo8GQmXeuAoVfuejsvoJdM59QPHtUFC9Gu_VQe2KXrYIyDMMTMe3CcwbTBsWeCJyuTrg=e365-pa-nu-w1440-rw" style="aspect-ratio:640/480;">
+<source data-src="https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/8712835c6d6ec706061ac99e2d3c2d1c44e3ca80.compressed.mp4" type="video/mp4"/>
+</video><button class="_toggleButton_10ywg_75" data-slot="toggle-button" aria-pressed="false" aria-label="Play video"><svg class="_playIcon_10ywg_111" width="10" height="15" viewBox="0 0 10 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 7.5L0 0V15L10 7.5Z" fill="currentColor"></path>
+</svg><svg class="_pauseIcon_10ywg_112" width="12" height="15" viewBox="0 0 12 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="4" height="15" fill="currentColor"></rect>
+<rect x="8" width="4" height="15" fill="currentColor"></rect>
+</svg><svg class="_replayIcon_10ywg_113" width="16" height="18" viewBox="0 0 16 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.12812 17.1275C7.11875 17.1275 6.16842 16.9336 5.27713 16.5458C4.38583 16.158 3.61021 15.6341 2.95025 14.9742C2.29029 14.3142 1.76641 13.5386 1.37859 12.6473C0.990781 11.756 0.796875 10.8057 0.796875 9.79629H2.74922C2.74922 11.2705 3.27715 12.5355 4.33301 13.5914C5.38887 14.6473 6.65391 15.1752 8.12812 15.1752C9.60234 15.1752 10.8674 14.6473 11.9232 13.5914C12.9791 12.5355 13.507 11.2705 13.507 9.79629C13.507 8.32207 12.9791 7.05703 11.9232 6.00117C10.8674 4.94531 9.59975 4.41738 8.12036 4.41738H8.12812L9.1043 5.39356L7.72969 6.80801L4.38281 3.46113L7.72969 0.114258L9.1043 1.48887L8.1082 2.46504H8.12812C9.1375 2.46504 10.0878 2.65895 10.9791 3.04676C11.8704 3.43457 12.646 3.95846 13.306 4.61841C13.966 5.27837 14.4898 6.054 14.8777 6.94529C15.2655 7.83658 15.4594 8.78691 15.4594 9.79629C15.4594 10.8057 15.2655 11.756 14.8777 12.6473C14.4898 13.5386 13.966 14.3142 13.306 14.9742C12.646 15.6341 11.8704 16.158 10.9791 16.5458C10.0878 16.9336 9.1375 17.1275 8.12812 17.1275Z" fill="currentColor"></path>
+</svg></button></photos-responsive-video></div>
+</div>
+</div>
+<div class="_content_xzcrl_114">
+<div class="_textContent_xzcrl_136">
+<h2 class="_title_xzcrl_146 _size:headline-4_l91ox_214 _markdown_l91ox_368" data-inview-effect="fade-up" data-inview-stagger="0">Your data is yours</h2>
+<div class="_body_xzcrl_146 _size:body_l91ox_297" data-inview-effect="fade-up" data-inview-stagger="1">
+<p>Everything you add to Google Photos belongs to you, and you can always delete or export your content.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:24px;--spacer-height--md:24px;--spacer-height--sm:24px;"></div>
+<div id="security-tiles" class="_module_sfqb7_131 inview _container_1jejk_75">
+<div class="_content_sfqb7_131">
+<div class="_tiles_sfqb7_121">
+<div class="_tile_sfqb7_121 type:CopyGroupTile _module_ybz6b_176 _bg:white_ybz6b_108 _container_1jejk_75">
+<div class="_icon_ybz6b_133" data-inview-effect="fade-up" data-inview-stagger="0">
+<picture class="_icon_ybz6b_133">
+<source srcset="https://lh3.googleusercontent.com/dntSIU7AoiGf2_cMwB2eNjWoHbO3ZyZRpH869id9yLZWTE3EdXKix6uNHiSwU8CpSS1Qw7IiLraUpFlwZp1elM88afb9QLyWgszEsQ=e365-pa-nu-w256 2x, https://lh3.googleusercontent.com/dntSIU7AoiGf2_cMwB2eNjWoHbO3ZyZRpH869id9yLZWTE3EdXKix6uNHiSwU8CpSS1Qw7IiLraUpFlwZp1elM88afb9QLyWgszEsQ=e365-pa-nu-w128"/>
+
+<img src="https://lh3.googleusercontent.com/dntSIU7AoiGf2_cMwB2eNjWoHbO3ZyZRpH869id9yLZWTE3EdXKix6uNHiSwU8CpSS1Qw7IiLraUpFlwZp1elM88afb9QLyWgszEsQ=e365-pa-nu-s0" width="128" height="128" alt="Padlock icon indicating security." loading="lazy" fetchpriority="auto"/>
+</picture>
+</div>
+<div class="_text_ybz6b_85">
+<h3 class="_title_ybz6b_102 _size:headline-5_l91ox_240" data-inview-effect="fade-up" data-inview-stagger="1">Your memories are safe</h3>
+<div class="_size:body_l91ox_297" data-inview-effect="fade-up" data-inview-stagger="2">
+<p>We operate one of the most advanced security infrastructures to help keep your photos and videos safe.</p>
+</div>
+</div>
+</div>
+<div class="_tile_sfqb7_121 _tile:index-1_sfqb7_204 type:CopyGroupTile _module_ybz6b_176 _bg:blue-700_ybz6b_120 _container_1jejk_75">
+<div class="_icon_ybz6b_133" data-inview-effect="fade-up" data-inview-stagger="0">
+<picture class="_icon_ybz6b_133">
+<source srcset="https://lh3.googleusercontent.com/RzRlRRCEqfUkMK6yZerWapvQom-A13KGuoPsLfZf-XWDjMscXka-jBAONt4LY0wjQxV9DfoCZGBsexihmBXyUvZ2YUPwbrfpu9f2RA=e365-pa-nu-w272 2x, https://lh3.googleusercontent.com/RzRlRRCEqfUkMK6yZerWapvQom-A13KGuoPsLfZf-XWDjMscXka-jBAONt4LY0wjQxV9DfoCZGBsexihmBXyUvZ2YUPwbrfpu9f2RA=e365-pa-nu-w136"/>
+
+<img src="https://lh3.googleusercontent.com/RzRlRRCEqfUkMK6yZerWapvQom-A13KGuoPsLfZf-XWDjMscXka-jBAONt4LY0wjQxV9DfoCZGBsexihmBXyUvZ2YUPwbrfpu9f2RA=e365-pa-nu-s0" width="136" height="136" alt="A checkmark icon." loading="lazy" fetchpriority="auto"/>
+</picture>
+</div>
+<div class="_text_ybz6b_85">
+<h3 class="_title_ybz6b_102 _size:headline-5_l91ox_240" data-inview-effect="fade-up" data-inview-stagger="1">Your data isn’t used in ads</h3>
+<div class="_size:body_l91ox_297" data-inview-effect="fade-up" data-inview-stagger="2">
+<p>Google Photos never sells your photos, videos, or personal information to anyone, and we don&#39;t use your photos and videos for advertising.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:64px;--spacer-height--md:64px;--spacer-height--sm:64px;"></div>
+<div class="_module_1llsc_74 _container_1jejk_75"><a href="https://safety.google/intl/en_us/photos/ " aria-label="Learn more about Google Photos security " target="_blank" rel="noopener noreferrer" class="_variant:medium-emphasis_ydg7y_83 _button_19jo3_108 _variant:medium-emphasis_19jo3_179">
+<div class="_label_19jo3_126">Learn more</div>
+</a></div>
+</div>
+</section>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:112px;--spacer-height--md:112px;--spacer-height--sm:104px;"></div>
+<section id="blog" class="inview">
+<div class="_headline_1fa7n_108 _container_1jejk_75">
+<h2 class="_size:headline-3_l91ox_188" data-inview-effect="fade-up" data-inview-stagger="0">The latest from Photos</h2>
+</div><photos-blog-feed class="_feed_1fa7n_112" feed="https://storage.googleapis.com/gweb-mobius-cdn/photos/blog-feed.json" num-posts="6" show-more-label="Show more" show-less-label="Show less"></photos-blog-feed>
+<div class="_footerButtons_1fa7n_398 _container_1jejk_75"><a href="https://blog.google/products/photos/" target="_blank" rel="noopener noreferrer" class="_variant:medium-emphasis_ydg7y_83 _button_19jo3_108 _variant:medium-emphasis_19jo3_179">
+<div class="_label_19jo3_126">Visit the blog</div>
+</a></div>
+</section>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:96px;--spacer-height--md:88px;--spacer-height--sm:48px;"></div>
+<section id="faq" class="inview" aria-labelledby="faq-title">
+<div class="_container_1jejk_75">
+<div class="_headline_1dfw6_75">
+<h2 id="faq-title" class="_size:headline-4_l91ox_214" data-inview-effect="fade-up" data-inview-stagger="0">Frequently asked questions</h2>
+</div><mws-accordion class="_faqs_1dfw6_79 _accordion_h2jws_75" data-mode="multiple">
+<div class="_faqItemWrap_1dfw6_90" data-inview-effect="fade-up" data-inview-stagger="1"><mws-accordion-item id="faq-faq-0" class="_faq_1dfw6_79 _accordionItem_h2jws_79"><button id="faq-faq-0-trigger" class="_accordionItemTrigger_h2jws_82" aria-controls="faq-faq-0-content" data-slot="accordion-item-trigger"><span>How much storage do I get for my photos and videos?</span>
+<div class="_expandIcon_1dfw6_93">
+<div class="_expandIconLine_1dfw6_111"></div>
+<div class="_expandIconLine_1dfw6_111"></div>
+</div>
+</button>
+<div id="faq-faq-0-content" class="_accordionItemContentWrap_h2jws_119" role="region" aria-labelledby="faq-faq-0-trigger">
+<div class="_accordionItemContent_h2jws_119" data-slot="accordion-item-content">
+<div>
+<p>Every Google Account comes with 15 GB of storage for Google Photos, Gmail, and Google Drive. You can also buy more storage with a Google One membership plan.</p>
+</div>
+</div>
+</div>
+</mws-accordion-item></div>
+<div class="_faqItemWrap_1dfw6_90" data-inview-effect="fade-up" data-inview-stagger="2"><mws-accordion-item id="faq-faq-1" class="_faq_1dfw6_79 _accordionItem_h2jws_79"><button id="faq-faq-1-trigger" class="_accordionItemTrigger_h2jws_82" aria-controls="faq-faq-1-content" data-slot="accordion-item-trigger"><span>Can I use Google Photos on an iOS device?</span>
+<div class="_expandIcon_1dfw6_93">
+<div class="_expandIconLine_1dfw6_111"></div>
+<div class="_expandIconLine_1dfw6_111"></div>
+</div>
+</button>
+<div id="faq-faq-1-content" class="_accordionItemContentWrap_h2jws_119" role="region" aria-labelledby="faq-faq-1-trigger">
+<div class="_accordionItemContent_h2jws_119" data-slot="accordion-item-content">
+<div>
+<p>Yes, Google Photos works on both iOS and Android devices. Get the app to get started. You can also use it on Desktop and Tablet devices. Learn more about <a href="https://support.google.com/photos/answer/14216276?hl=en">how Google Photos integrates with your device’s default gallery</a>.</p>
+</div>
+</div>
+</div>
+</mws-accordion-item></div>
+<div class="_faqItemWrap_1dfw6_90" data-inview-effect="fade-up" data-inview-stagger="3"><mws-accordion-item id="faq-faq-2" class="_faq_1dfw6_79 _accordionItem_h2jws_79"><button id="faq-faq-2-trigger" class="_accordionItemTrigger_h2jws_82" aria-controls="faq-faq-2-content" data-slot="accordion-item-trigger"><span>How do I back up my photos and videos?</span>
+<div class="_expandIcon_1dfw6_93">
+<div class="_expandIconLine_1dfw6_111"></div>
+<div class="_expandIconLine_1dfw6_111"></div>
+</div>
+</button>
+<div id="faq-faq-2-content" class="_accordionItemContentWrap_h2jws_119" role="region" aria-labelledby="faq-faq-2-trigger">
+<div class="_accordionItemContent_h2jws_119" data-slot="accordion-item-content">
+<div>
+<p>You can automatically save your photos and videos to your Google Account when you turn on backup. You can enable backup while setting up your Photos app or if you go to the Settings page and turn backup on. You can also manually backup your photos. <a href="https://support.google.com/photos/answer/6193313?co=GENIE.Platform%3DAndroid&amp;oco=1#what-happens-when-you-backup-photos">Learn more about the benefits of backup</a>.<br/></p>
+</div>
+</div>
+</div>
+</mws-accordion-item></div>
+<div class="_faqItemWrap_1dfw6_90" data-inview-effect="fade-up" data-inview-stagger="4"><mws-accordion-item id="faq-faq-3" class="_faq_1dfw6_79 _accordionItem_h2jws_79"><button id="faq-faq-3-trigger" class="_accordionItemTrigger_h2jws_82" aria-controls="faq-faq-3-content" data-slot="accordion-item-trigger"><span>How do I edit my photos?</span>
+<div class="_expandIcon_1dfw6_93">
+<div class="_expandIconLine_1dfw6_111"></div>
+<div class="_expandIconLine_1dfw6_111"></div>
+</div>
+</button>
+<div id="faq-faq-3-content" class="_accordionItemContentWrap_h2jws_119" role="region" aria-labelledby="faq-faq-3-trigger">
+<div class="_accordionItemContent_h2jws_119" data-slot="accordion-item-content">
+<div>
+<p>To edit photos on your mobile device, download and install the Google Photos app. Editing features including Magic Eraser, and Photo Unblur are only available in the Google Photos app. <a href="https://support.google.com/photos/answer/6128850?hl=en&amp;ref_topic=6128857">Learn more about how to edit your photos and videos.</a></p>
+</div>
+</div>
+</div>
+</mws-accordion-item></div>
+<div class="_faqItemWrap_1dfw6_90" data-inview-effect="fade-up" data-inview-stagger="5"><mws-accordion-item id="faq-faq-4" class="_faq_1dfw6_79 _accordionItem_h2jws_79"><button id="faq-faq-4-trigger" class="_accordionItemTrigger_h2jws_82" aria-controls="faq-faq-4-content" data-slot="accordion-item-trigger"><span>How can I share my photos?</span>
+<div class="_expandIcon_1dfw6_93">
+<div class="_expandIconLine_1dfw6_111"></div>
+<div class="_expandIconLine_1dfw6_111"></div>
+</div>
+</button>
+<div id="faq-faq-4-content" class="_accordionItemContentWrap_h2jws_119" role="region" aria-labelledby="faq-faq-4-trigger">
+<div class="_accordionItemContent_h2jws_119" data-slot="accordion-item-content">
+<div>
+<p>You can share photos, videos, albums, and highlight videos with any of your contacts, even if they don&#39;t use the Google Photos app. Simply tap the “Share” button and you can send photos directly to existing Google Photos users or tap “Share to” to share with your contacts, share in your everyday apps, create a shared album or create a direct link to that photo. <a href="https://support.google.com/photos/answer/6131416?hl=en&amp;ref_topic=6128855">Learn more about how to share your photos and videos.</a></p>
+</div>
+</div>
+</div>
+</mws-accordion-item></div>
+<div class="_faqItemWrap_1dfw6_90" data-inview-effect="fade-up" data-inview-stagger="6"><mws-accordion-item id="faq-faq-5" class="_faq_1dfw6_79 _accordionItem_h2jws_79"><button id="faq-faq-5-trigger" class="_accordionItemTrigger_h2jws_82" aria-controls="faq-faq-5-content" data-slot="accordion-item-trigger"><span>How do I search for my photos?</span>
+<div class="_expandIcon_1dfw6_93">
+<div class="_expandIconLine_1dfw6_111"></div>
+<div class="_expandIconLine_1dfw6_111"></div>
+</div>
+</button>
+<div id="faq-faq-5-content" class="_accordionItemContentWrap_h2jws_119" role="region" aria-labelledby="faq-faq-5-trigger">
+<div class="_accordionItemContent_h2jws_119" data-slot="accordion-item-content">
+<div>
+<p>You can easily search your photos and videos for anything. For example, you can search by places you’ve traveled, your pet, your favorite foods and more. To more easily search and manage your photos, you can apply a name to people or pets that appear in your photos. Learn more about <a href="https://support.google.com/photos/answer/6128838?hl=en&amp;ref_topic=6128818#nofacegrouping">Face Groups</a> and <a href="https://support.google.com/photos/answer/6128838?hl=en&amp;ref_topic=6128818">how to search your photos</a>.</p>
+</div>
+</div>
+</div>
+</mws-accordion-item></div>
+</mws-accordion>
+<ul class="_footerButtons_1dfw6_148 _buttonGroup_1shg1_75 _align:center_1shg1_83 _mobileAlign:center_1shg1_92 unstyled" data-inview-effect="fade-up" data-inview-stagger="7">
+<li><a href="https://support.google.com/photos/" target="_blank" rel="noopener noreferrer" class="_variant:medium-emphasis_ydg7y_83 _button_19jo3_108 _variant:medium-emphasis_19jo3_179">
+<div class="_label_19jo3_126">Learn more</div>
+</a></li>
+</ul>
+</div>
+</section>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:120px;--spacer-height--md:120px;--spacer-height--sm:120px;"></div>
+<div id="download" class="_bg_1c7tv_75 _bg:blue-50_1c7tv_75 _md:fullwidth_1c7tv_116 _container_1jejk_75">
+<div class="_modules_1c7tv_93">
+<div id="" class="_module_sfqb7_131 inview _container_1jejk_75">
+<div class="_content_sfqb7_131">
+<div class="_tiles_sfqb7_121">
+<div class="_tile_1bbty_75 _tile_sfqb7_121 type:DownloadAppTile inview">
+<div class="_layout_1bbty_106">
+<div class="_content_1bbty_113">
+<h2 class="_title_1bbty_135 _size:headline-3_l91ox_188" data-inview-effect="fade-up" data-inview-stagger="0">Download Google Photos</h2>
+<div class="_body_1bbty_138 _size:body_l91ox_297" data-inview-effect="fade-up" data-inview-stagger="1">
+<p>Back up your life’s memories on all your devices.</p>
+</div>
+</div>
+<div class="_badges_1bbty_142" data-inview-effect="fade-up" data-inview-stagger="2">
+<div><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.photos&amp;referrer=utm_source%3Dmarketingsite%26utm_medium%3Dmarketingsite%26utm_campaign%3Dmarketingsite_new">
+<picture>
+<source srcset="https://lh3.googleusercontent.com/zWYJUppfU-TunHSxKMA6i1LRpv2POWaGCOOcvwR2h1E_R8LZ3RCiMUgbyxJDGFQqePR3G5BA3MdpUw4_BtQ_mefV36WH3tnBrV3ZkuSj=e365-pa-nu-w400 2x, https://lh3.googleusercontent.com/zWYJUppfU-TunHSxKMA6i1LRpv2POWaGCOOcvwR2h1E_R8LZ3RCiMUgbyxJDGFQqePR3G5BA3MdpUw4_BtQ_mefV36WH3tnBrV3ZkuSj=e365-pa-nu-w200"/>
+
+<img src="https://lh3.googleusercontent.com/zWYJUppfU-TunHSxKMA6i1LRpv2POWaGCOOcvwR2h1E_R8LZ3RCiMUgbyxJDGFQqePR3G5BA3MdpUw4_BtQ_mefV36WH3tnBrV3ZkuSj=e365-pa-nu-s0" width="200" height="200" alt="Get it on Google Play" loading="lazy" fetchpriority="auto"/>
+</picture>
+</a></div>
+<div><a href="https://apps.apple.com/app/apple-store/id962194608?pt=9008&amp;ct=marketingsite_new&amp;mt=8">
+<picture>
+<source srcset="https://lh3.googleusercontent.com/lxsXDCeIX7iYaMIzxmJ8ttfE3TRNeCCNbB9TUWT0W0D9R4JlhemtyWUg0zDR69NCVWDvVMVd9uZ-hDHExoqfTxZnIlQrx1p7mGSr-g=e365-pa-nu-w400 2x, https://lh3.googleusercontent.com/lxsXDCeIX7iYaMIzxmJ8ttfE3TRNeCCNbB9TUWT0W0D9R4JlhemtyWUg0zDR69NCVWDvVMVd9uZ-hDHExoqfTxZnIlQrx1p7mGSr-g=e365-pa-nu-w200"/>
+
+<img src="https://lh3.googleusercontent.com/lxsXDCeIX7iYaMIzxmJ8ttfE3TRNeCCNbB9TUWT0W0D9R4JlhemtyWUg0zDR69NCVWDvVMVd9uZ-hDHExoqfTxZnIlQrx1p7mGSr-g=e365-pa-nu-s0" width="200" height="200" alt="Download on the App Store" loading="lazy" fetchpriority="auto"/>
+</picture>
+</a></div>
+</div>
+</div>
+<figure class="_qrCode_1bbty_173" data-inview-effect="fade-up" data-inview-stagger="3"><photos-qr-code url="https://g.co/photos/download"></photos-qr-code>
+<figcaption class="_qrCodeLabel_1bbty_197 _size:caption_l91ox_310">Scan for the Photos app</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="_spacer_9kgm0_74" role="separator" aria-hidden="true" style="--spacer-height--lg-gt:40px;--spacer-height--md:40px;--spacer-height--sm:40px;"></div>
+</main>
+<footer id="footer" class="_footer_ej55e_162 _footer_3xk2q_75">
+<div>
+<div class="_container_1jejk_75">
+<div class="_socialSectionLayout_ej55e_75">
+<h3 class="_size:headline-6_l91ox_264">Follow us</h3>
+<ul class="_socialLinks_ej55e_83 unstyled">
+<li><a href="https://x.com/googlephotos" aria-label="X / Twitter"><svg width="22" height="20" viewBox="0 0 22 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.173785 0.869263L8.3535 11.3861L0.122131 19.9367H1.97468L9.18123 12.4505L15.0039 19.9367H21.3082L12.6683 8.82835L20.33 0.869263H18.4774L11.8406 7.76392L6.47809 0.869263H0.173785ZM2.8981 2.18143H5.79431L18.5835 18.6244H15.6873L2.8981 2.18143Z" fill="currentColor"></path>
+</svg></a></li>
+<li><a href="https://www.youtube.com/googlephotos" aria-label="YouTube"><svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24.344 8.5935C24.344 8.5935 24.114 6.9435 23.394 6.2235C22.484 5.2635 21.464 5.2635 20.994 5.2035C17.644 4.9585 12.604 4.9885 12.604 4.9885C12.604 4.9885 7.584 4.9585 4.234 5.1985C3.774 5.2585 2.754 5.2585 1.844 6.2185C1.124 6.9385 0.884004 8.5885 0.884004 8.5885C0.884004 8.5885 0.644004 10.5335 0.604004 12.4685V14.4935C0.644004 16.4335 0.884004 18.3685 0.884004 18.3685C0.884004 18.3685 1.124 20.0185 1.844 20.7485C2.754 21.6985 3.944 21.6685 4.484 21.7685C6.364 21.9485 12.394 21.9885 12.604 21.9885C12.604 21.9885 17.654 21.9985 21.004 21.7585C21.464 21.6985 22.484 21.6985 23.394 20.7385C24.114 20.0185 24.354 18.3685 24.354 18.3685C24.354 18.3685 24.594 16.4285 24.604 14.4935V12.4685C24.584 10.5335 24.344 8.5935 24.344 8.5935ZM10.174 16.9885V9.9785L16.604 13.6185L10.174 16.9885Z" fill="currentColor"></path>
+</svg></a></li>
+</ul>
+</div>
+</div>
+<div class="_container_1jejk_75">
+<div class="_linksSectionLayout_ej55e_88">
+<div>
+<h3 class="_linksLabel_ej55e_106 _size:headline-6_l91ox_264">About Google Photos</h3>
+<ul class="_linksList_ej55e_109 unstyled">
+<li><a class="_link_ej55e_88 _size:cta-header-link_l91ox_276" href="photos/about/index.html">Overview</a></li>
+<li><a class="_link_ej55e_88 _size:cta-header-link_l91ox_276" href="photos/editing/index.html">Photo editing</a></li>
+<li><a class="_link_ej55e_88 _size:cta-header-link_l91ox_276" href="photos/download/index.html">Download Google Photos</a></li>
+</ul>
+</div>
+<div>
+<h3 class="_linksLabel_ej55e_106 _size:headline-6_l91ox_264">Additional Resources</h3>
+<ul class="_linksList_ej55e_109 unstyled">
+<li><a class="_link_ej55e_88 _size:cta-header-link_l91ox_276" href="photos/works-with/index.html">Works with Google Photos</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="_container_1jejk_75">
+<div id="footnotes" class="_footnotes_ej55e_122">
+<div class="_footnotesList_ej55e_128" role="list" aria-label="Footnotes">
+<div class="_footnotesListItem_ej55e_134" role="listitem" id="footnote:remix">
+<div class="_footnoteSymbol_ej55e_158 _size:caption_l91ox_310">1</div>
+<div class="_footnoteBody_ej55e_143 _size:caption_l91ox_310">
+<p>Photo to video and Remix features are available to US users on both iOS and Android devices running version 9 or higher. Both features available in device language set to English (US) for users 13 and older. For proper function, features require network connection, input photos must be backed up and Photos app should be updated to the latest version.</p>
+</div>
+</div>
+<div class="_footnotesListItem_ej55e_134" role="listitem" id="footnote:google_account_storage">
+<div class="_footnoteSymbol_ej55e_158 _size:caption_l91ox_310">2</div>
+<div class="_footnoteBody_ej55e_143 _size:caption_l91ox_310">
+<p>Google Account storage is shared across Google Photos, Gmail, and Google Drive.</p>
+</div>
+</div>
+<div class="_footnotesListItem_ej55e_134" role="listitem" id="footnote:iphone_trademark">
+<div class="_footnoteSymbol_ej55e_158 _size:caption_l91ox_310">3</div>
+<div class="_footnoteBody_ej55e_143 _size:caption_l91ox_310">
+<p>iPhone is a trademark of Apple Inc.</p>
+</div>
+</div>
+<div class="_footnotesListItem_ej55e_134" role="listitem" id="footnote:natural_language_search">
+<div class="_footnoteSymbol_ej55e_158 _size:caption_l91ox_310">4</div>
+<div class="_footnoteBody_ej55e_143 _size:caption_l91ox_310">
+<p>May not work on all searches. Available in English only for backed up photos and videos.</p>
+</div>
+</div>
+<div class="_footnotesListItem_ej55e_134" role="listitem" id="footnote:printing_availability">
+<div class="_footnoteSymbol_ej55e_158 _size:caption_l91ox_310">5</div>
+<div class="_footnoteBody_ej55e_143 _size:caption_l91ox_310">
+<p>Printing is only available in the US, Canada, EU, and UK.</p>
+</div>
+</div>
+<div class="_footnotesListItem_ej55e_134" role="listitem" id="footnote:reimagine_availability">
+<div class="_footnoteSymbol_ej55e_158 _size:caption_l91ox_310">6</div>
+<div class="_footnoteBody_ej55e_143 _size:caption_l91ox_310">
+<p>Available on Android 8+. Feature availability may vary by device, region, and account type.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="_container_1jejk_75">
+<div class="_mainContent_3xk2q_118">
+<div><a href="index.html">
+
+<img src="https://gstatic.com/images/branding/googlelogo/svg/googlelogo_dark54_clr_84x28px.svg" width="84" height="28" alt="Google"/></a></div>
+<div class="_links_3xk2q_86">
+<ul>
+<li><a href="https://about.google/" class="_button_19jo3_108 _variant:link_19jo3_286">
+<div class="_label_19jo3_126">About Google</div>
+</a></li>
+<li><a href="https://about.google/products/?tip=conversions" class="_button_19jo3_108 _variant:link_19jo3_286">
+<div class="_label_19jo3_126">Google products</div>
+</a></li>
+<li><a href="https://policies.google.com/privacy" class="_button_19jo3_108 _variant:link_19jo3_286">
+<div class="_label_19jo3_126">Privacy</div>
+</a></li>
+<li><a href="https://policies.google.com/terms" class="_button_19jo3_108 _variant:link_19jo3_286">
+<div class="_label_19jo3_126">Terms</div>
+</a></li>
+</ul>
+</div>
+<div class="_aside_3xk2q_138">
+<div class="_helpLink_3xk2q_86"><a href="https://support.google.com/photos/" class="_button_19jo3_108 _variant:link_19jo3_286">
+<div class="_leftIcon_19jo3_131"><svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewBox="0 0 24 24" fill="#5f6368">
+<path d="M0 0h24v24H0z" fill="none"></path>
+<path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17h-2v-2h2v2zm2.07-7.75l-.9.92C13.45 12.9 13 13.5 13 15h-2v-.5c0-1.1.45-2.1 1.17-2.83l1.24-1.26c.37-.36.59-.86.59-1.41 0-1.1-.9-2-2-2s-2 .9-2 2H8c0-2.21 1.79-4 4-4s4 1.79 4 4c0 .88-.36 1.68-.93 2.25z"></path>
+</svg></div>
+<div class="_label_19jo3_126">Help</div>
+</a></div><select id="language-picker" class="_languageSelect_1nbt0_75" onchange="window.location.href = this.value" aria-label="Select language">
+<option value="/intl/cs_cz/photos/about" lang="cs-CZ" translate="no">čeština (Česko)</option>
+<option value="/intl/da_dk/photos/about" lang="da-DK" translate="no">dansk (Danmark)</option>
+<option value="/intl/de_be/photos/about" lang="de-BE" translate="no">Deutsch (Belgien)</option>
+<option value="/intl/de_de/photos/about" translate="no">Deutsch (Deutschland)</option>
+<option value="/intl/de_lu/photos/about" lang="de-LU" translate="no">Deutsch (Luxemburg)</option>
+<option value="/intl/de_at/photos/about" lang="de-AT" translate="no">Deutsch (Österreich)</option>
+<option value="/intl/et_ee/photos/about" lang="et-EE" translate="no">eesti (Eesti)</option>
+<option value="/intl/en/photos/about" selected="" translate="no">English</option>
+<option value="/intl/en_ca/photos/about" lang="en-CA" translate="no">English (Canada)</option>
+<option value="/intl/en_ie/photos/about" lang="en-IE" translate="no">English (Ireland)</option>
+<option value="/intl/en_uk/photos/about" translate="no">English (United Kingdom)</option>
+<option value="/intl/en_us/photos/about" lang="en-US" translate="no">English (United States)</option>
+<option value="/intl/es_es/photos/about" lang="es-ES" translate="no">español</option>
+<option value="/intl/fr_be/photos/about" lang="fr-BE" translate="no">français (Belgique)</option>
+<option value="/intl/fr_ca/photos/about" lang="fr-CA" translate="no">français (Canada)</option>
+<option value="/intl/fr_fr/photos/about" translate="no">Français (France)</option>
+<option value="/intl/fr_lu/photos/about" lang="fr-LU" translate="no">français (Luxembourg)</option>
+<option value="/intl/hr_hr/photos/about" lang="hr-HR" translate="no">hrvatski (Hrvatska)</option>
+<option value="/intl/it_it/photos/about" lang="it-IT" translate="no">italiano</option>
+<option value="/intl/lv_lv/photos/about" lang="lv-LV" translate="no">latviešu (Latvija)</option>
+<option value="/intl/lt_lt/photos/about" lang="lt-LT" translate="no">lietuvių (Lietuva)</option>
+<option value="/intl/hu_hu/photos/about" lang="hu-HU" translate="no">magyar (Magyarország)</option>
+<option value="/intl/mt_mt/photos/about" lang="en-MT" translate="no">Malta</option>
+<option value="/intl/nl_nl/photos/about" lang="nl-NL" translate="no">Nederlands (Nederland)</option>
+<option value="/intl/pl_pl/photos/about" lang="pl-PL" translate="no">polski</option>
+<option value="/intl/pt_pt/photos/about" lang="pt-PT" translate="no">português (Portugal)</option>
+<option value="/intl/ro_ro/photos/about" lang="ro-RO" translate="no">română (România)</option>
+<option value="/intl/sk_sk/photos/about" lang="sk-SK" translate="no">slovenčina (Slovensko)</option>
+<option value="/intl/sl_si/photos/about" lang="sl-SI" translate="no">slovenščina (Slovenija)</option>
+<option value="/intl/fi_fi/photos/about" lang="fi-FI" translate="no">suomi (Suomi)</option>
+<option value="/intl/sv_fi/photos/about" lang="sv-FI" translate="no">svenska (Finland)</option>
+<option value="/intl/sv_se/photos/about" lang="sv-SE" translate="no">svenska (Sverige)</option>
+<option value="/intl/tr_cy/photos/about" lang="tr-CY" translate="no">Türkçe (Kıbrıs)</option>
+<option value="/intl/el_gr/photos/about" lang="el-GR" translate="no">Ελληνικά (Ελλάδα)</option>
+<option value="/intl/el_cy/photos/about" lang="el-CY" translate="no">Ελληνικά (Κύπρος)</option>
+<option value="/intl/bg_bg/photos/about" lang="bg-BG" translate="no">български (България)</option>
+</select>
+</div>
+</div>
+</div>
+</footer>
+</div>
+
+
+</body></html>
