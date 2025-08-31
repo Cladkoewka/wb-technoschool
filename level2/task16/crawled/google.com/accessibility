@@ -24,19 +24,19 @@
     <link rel="shortcut icon" href="https://www.gstatic.com/images/branding/product/ico/googleg_alldp.ico"/>
     <link rel="canonical" href="https://belonging.google/in-products/disability-innovation/"/>
 
-    <script nonce="LQGZIOQFu09wskr3EKjUIw">
+    <script nonce="ldytIPoFT3Yomese9Zg4ZA">
       window.voicesVideoCaptions = {};
     </script>
 
     
-    <link href="//www.gstatic.com/glue/v25_0/ccb.min.css" rel="stylesheet" nonce="LQGZIOQFu09wskr3EKjUIw"/>
-    <link href="//fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i|Google+Sans:400,500,700|Google+Sans+Display:400,500,700|Product+Sans:400" rel="stylesheet" nonce="LQGZIOQFu09wskr3EKjUIw"/>
+    <link href="//www.gstatic.com/glue/v25_0/ccb.min.css" rel="stylesheet" nonce="ldytIPoFT3Yomese9Zg4ZA"/>
+    <link href="//fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i|Google+Sans:400,500,700|Google+Sans+Display:400,500,700|Product+Sans:400" rel="stylesheet" nonce="ldytIPoFT3Yomese9Zg4ZA"/>
     
-      <link rel="stylesheet" href="static/index.min.css" nonce="LQGZIOQFu09wskr3EKjUIw"/>
+      <link rel="stylesheet" href="static/index.min.css" nonce="ldytIPoFT3Yomese9Zg4ZA"/>
     
 
     <!-- prettier-ignore -->
-    <script nonce="LQGZIOQFu09wskr3EKjUIw">
+    <script nonce="ldytIPoFT3Yomese9Zg4ZA">
       window.dataLayer = window.dataLayer || [];
       window.dataLayer.push({
         'gtm.blacklist':['customScripts','nonGoogleScripts','nonGooglePixels','customPixels']
@@ -47,7 +47,7 @@
     </script>
 
     <!-- prettier-ignore -->
-    <script nonce="LQGZIOQFu09wskr3EKjUIw">
+    <script nonce="ldytIPoFT3Yomese9Zg4ZA">
       /* Google Tag Manager */
       function glueCookieNotificationBarLoaded() {
         (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -3030,9 +3030,9 @@
 </footer>
 
     
-    <script src="https://ajax.googleapis.com/ajax/libs/hammerjs/2.0.8/hammer.min.js" nonce="LQGZIOQFu09wskr3EKjUIw"></script>
-    <script src="https://www.youtube.com/player_api" nonce="LQGZIOQFu09wskr3EKjUIw"></script>
-    <script src="static/index.min.js" nonce="LQGZIOQFu09wskr3EKjUIw"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/hammerjs/2.0.8/hammer.min.js" nonce="ldytIPoFT3Yomese9Zg4ZA"></script>
+    <script src="https://www.youtube.com/player_api" nonce="ldytIPoFT3Yomese9Zg4ZA"></script>
+    <script src="static/index.min.js" nonce="ldytIPoFT3Yomese9Zg4ZA"></script>
   
 
 </body></html>
